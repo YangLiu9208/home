@@ -60,11 +60,11 @@ Teaching Assistant at Xidian University for:
 ## Publications
 [1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
-IEEE Transactions on Circuits and Systems for Video Technology, accepted.   
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted.   
 
 [2] Global Temporal Representation based CNNs for Infrared Action Recognition  
 **Yang  Liu**, Zhaoyang  Lu,  Jing, Li, Tao Yang, Chao Yao.   
-IEEE Signal Processing Letters, vol. 25, no. 6, pp. 848-852, June 2018.   
+IEEE Signal Processing Letters (**SPL**), vol. 25, no. 6, pp. 848-852, June 2018.   
 
 [3] Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
@@ -72,7 +72,7 @@ Complexity, vol. 2018, Article ID 5345241, 20 pages, 2018.
 
 [4] Combining Multiple Features for Cross-Domain Face Sketch Recognition   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
-Chinese Conference on Biometric Recognition (CCBR). Springer International Publishing, 2016: 139-146.  
+Chinese Conference on Biometric Recognition (**CCBR**). Springer International Publishing, 2016: 139-146.  
 
 [5] A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching   
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
