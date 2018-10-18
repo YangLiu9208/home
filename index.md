@@ -2,124 +2,104 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), currently a 3rd-year PhD candidate at University of Southern California, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focus on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer, I will spend 2018 summer at Google Cloud AI.
+I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://www.google.com/url?q=http%3A%2F%2Fste.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNFW3QInDioczJ0y47mgmGrPenAhLw), [Xidian University](https://www.google.com/url?q=https%3A%2F%2Fwww.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNGAvDSiTdblfSpGIqXXY4OHJzCq6g). My supervisor is Prof. [Zhaoyang Lu](http://www.google.com/url?q=http%3A%2F%2Fweb.xidian.edu.cn%2Fzhylu%2F&sa=D&sntz=1&usg=AFQjCNG9KemUeMEn4Zuj7rWUrscuGvMTqQ). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.google.com/url?q=http%3A%2F%2Fwww.chd.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNF4JwHluZw3pcNRW2Sjff5mhANN9w). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.google.com/url?q=http%3A%2F%2Fwww.chd.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNF4JwHluZw3pcNRW2Sjff5mhANN9w). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning. 
 
 ## Education
 <div align="left">
-        <strong> University of Southern California, Los Angeles, USA (Aug 2015 - Now) </strong>
+        <strong> Xidian University, Xi'an, China (Sep 2014 - Now) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
-            <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
+            <img border="0" src="Xidian_logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
-          Doctor of Philosophy (Ph.D), Electrical Engineering</li>
+          Doctor of Philosophy (Ph.D), Communication and Information Systems</li>
         <li>
-          Advisor: Prof. Ram Nevatia</li>
+          Advisor: Prof. Zhaoyang Lu</li>
       </ul>      
       </div>
 
 <div align="left">
-        <strong> Tsinghua University, Beijing, China (Aug 2011 - Jun 2015) </strong>
+        <strong> Chang'an University, Xi'an, China (Sep 2010 - Jun 2014) </strong>
           <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
-            <img border="0" src="Tsinghua_Logo.png" align="right" width="70" height="70">
+            <img border="0" src="CHD_Logo.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
-          Bachelor of Engineering (B.E), Microelectronics</li>
+          Bachelor of Engineering (B.E), Telecommunications Engineering</li>
         <li>
           Graduated with Excellent Thesis Award</li>
       </ul>      
       </div>
 
 
-## Experience
-<div align="left">
-        <strong> Google Cloud, Sunnyvale, CA, USA (May 2018 - Aug 2018) </strong>
-          <a href="https://cloud.google.com/vision/" target="_blank" rel="external">
-            <img border="0" src="google-logo.png" align="right" width="60" height="60">
-          </a> 
-        <ul>
-        <li>
-          Position: Software Engineering Intern</li>
-        <li>
-          Semi-supervised Object Detection </li>
-      </ul>      
-      </div>
-      
-<div align="left">
-        <strong> Google Research, Mountain View, CA, USA (May 2017 - Aug 2017) </strong>
-          <a href="https://research.google.com/" target="_blank" rel="external">
-            <img border="0" src="google-logo.png" align="right" width="60" height="60">
-          </a> 
-        <ul>
-        <li>
-          Position: Software Engineering Intern</li>
-        <li>
-          Super large scale (100K classes) image classification, <a href="https://arxiv.org/abs/1711.07607" target="_blank" rel="external"> tech report </a>. </li>
-      </ul>      
-      </div>
+## Teaching Experience
+Teaching Assistant at Xidian University for:
 
-<div align="left">
-        <strong> Sensetime, Beijing, China (Feb 2015 - Jun 2015) </strong>
-          <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
-            <img border="0" src="sensetime-logo.png" align="right" width="61" height="65">
-          </a> 
-        <ul>
-        <li>
-          Position: Research Intern</li>
-        <li>
-          Human pose estimation with deep CNN. </li>
-      </ul>      
-      </div>
-     
-<div align="left">
-        <strong> Stanford University, Stanford, CA, USA (Jun 2014 - Aug 2014) </strong>
-          <a target="_blank" rel="external">
-            <img border="0" src="stanford-logo.png" align="right" width="65" height="65">
-          </a> 
-        <ul>
-        <li>
-          Position: Research Intern, in UGVR program</li>
-        <li>Bladder 3D reconstruction from endoscope images using SFM. </li>
-      </ul>      
-      </div>
-      
+* B38DF: Computer architecture and embedded systems, Spring 2018, 
+
+  Instructors: Mustafa Suphi Erden, Paul Record 
+        
+
 ## Publications
-**Jiyang Gao\***, Kan Chen\*, Ram Nevatia, "_CTAP: Complementary Temporal Action Proposal Generation_", European Conference on Computer Vision (**ECCV**), 2018 (\* indicates equal contribution)
+Hierarchically Learned View-Invariant Representations for Cross View Action Recognition 
 
-**Jiyang Gao**, Ram Nevatia, "_Revisiting Temporal Modeling for Video-based Person ReID_", tech report, [arxiv](https://arxiv.org/pdf/1805.02104.pdf), [code](https://github.com/jiyanggao/Video-Person-ReID)
+**Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.
 
-**Jiyang Gao\***, Runzhou Ge\*, Kan Chen, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, [arxiv](https://arxiv.org/pdf/1803.10906.pdf) (\* indicates equal contribution)
+IEEE Transactions on Circuits and Systems for Video Technology, accepted. 
 
-Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly Supervised Phrase Grounding_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, [arxiv](https://arxiv.org/pdf/1803.03879.pdf), [code](https://github.com/kanchen-usc/KAC-Net) 
 
-**Jiyang Gao**, Zijian (James) Guo, Zhen Li, Ram Nevatia, "_Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN_", tech report for the summer intern at Google Research, [arxiv](https://arxiv.org/abs/1711.07607)
 
-**Jiyang Gao**, Chen Sun, Zhenheng Yang and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (**ICCV**), 2017, **[Spotlight]**, [arxiv](https://arxiv.org/abs/1705.02101), [code](https://github.com/jiyanggao/TALL), [video](https://www.youtube.com/watch?v=ZDO064ccYS0)
+Global Temporal Representation based CNNs for Infrared Action Recognition 
 
-**Jiyang Gao\***, Zhenheng Yang*, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (**ICCV**), 2017, [arxiv](https://arxiv.org/abs/1703.06189), [code](https://github.com/jiyanggao/TURN-TAP) (\* indicates equal contribution)
+**Yang  Liu**, Zhaoyang  Lu,  Jing, Li, Tao Yang, Chao Yao. 
 
-**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", in British Machine Vision Conference (**BMVC**), 2017, [arxiv](https://arxiv.org/abs/1705.01180), [code](https://github.com/jiyanggao/CBR), [THUMOS-14 results](https://github.com/jiyanggao/CBR-results) 
+IEEE Signal Processing Letters, vol. 25, no. 6, pp. 848-852, June 2018. 
 
-**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", in British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1707.04818), [video](https://www.youtube.com/watch?v=wewtVcMzet0&t=6s)
 
-Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", in British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1708.00042), [video](https://www.youtube.com/watch?v=oxPxY0aB4eI) 
 
-**Jiyang Gao** and Ram Nevatia, “_Learning Action Concept Trees and Semantic Alignment Networks from Image-Description Data_” in Asian Conference on Computer Vision (**ACCV**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1609.02284)
+Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition 
 
-**Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (**ACM ICMR**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784)
+**Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.
+
+Complexity, vol. 2018, Article ID 5345241, 20 pages, 2018.  
+
+
+
+Combining Multiple Features for Cross-Domain Face Sketch Recognition 
+
+**Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.
+
+Chinese Conference on Biometric Recognition. Springer International Publishing, 2016: 139-146.
+
+
+
+A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching 
+
+Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
+
+Journal of Xi'an Jiaotong University, vol. 52, no. 8, pp. 74-79, 2018.
+
+
+
+Road Scene Segmentation Using Hierarchical Graph-based Inference 
+
+Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
+
+Journal of Xi'an Jiaotong University, vol. 51, no. 12, pp. 62-67, 2017.
+
+
+
+
 
 ## Professional Services
-Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19 and CVIU
+Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, etc.
 
 ## Awards
-Annenberg Graduate Fellowship at University of Southern California, 2015
+2018 National Scholarship for Doctoral Candidates
 
-Excellent Bachelor Thesis at Tsinghua University, 2015
+2017 First Class Academic Scholarship
 
-Changhong Scholarship at Tsinghua University, 2014
-
-First Prize of 31st “Challenge Cup” Student Academic Competition of Tsinghua University (as Team Leader), 2013
+2016 First Class Academic Scholarship 
 
 
 <div align="center">
