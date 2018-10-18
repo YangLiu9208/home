@@ -80,11 +80,11 @@ I am currently looking for postdoc position. If you are interested, please conta
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted.   
 
-[2] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [codes](https://xdyangliu.github.io/TSTDDs/)    
+[2] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://xdyangliu.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 IEEE Signal Processing Letters (**SPL**), vol. 25, no. 6, pp. 848-852, June 2018.   
 
-[3] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [codes](https://xdyangliu.github.io/CDFAG/)     
+[3] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://xdyangliu.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 Complexity, vol. 2018, Article ID 5345241, 20 pages, 2018.    
 
@@ -113,6 +113,7 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 <strong>This page has been visited for 
 <a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a> times</strong>
 </div>      
+
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
