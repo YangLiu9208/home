@@ -59,8 +59,11 @@ Teaching Assistant at Xidian University for:
 
 ## Publications
 [1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition
+
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.
+
 IEEE Transactions on Circuits and Systems for Video Technology, accepted. 
+
 
 [2] Global Temporal Representation based CNNs for Infrared Action Recognition
 **Yang  Liu**, Zhaoyang  Lu,  Jing, Li, Tao Yang, Chao Yao. 
