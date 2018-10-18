@@ -50,27 +50,27 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 
 ## Research Experience
 **Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2015 - present)**   
-  Doctoral Research with Prof. Zhaoyang Lu Sep. 2015 - Present  
+  Doctoral Research with Prof. Zhaoyang Lu Sep. 2015 - Present    
   * Visible-to-infrared human action recognition  
   * Infrared human action recognition  
   * Cross-view human action recognition  
   * Transfer learning, domain adaptation, deep learning and zero-shot learning techniques for cross-domain action recognition  
 
 **Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Mar. 2016 - Oct. 2016)**  
-  Graduate Research with Prof. Jing Li 
+  Graduate Research with Prof. Jing Li   
   * Cross-domain image recognition
   * Face sketch recognition
   * Multiple features fusion
 
 **Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2014 - Aug. 2016)**  
-  Graduate Research with Prof. Zhaoyang Lu   
+  Graduate Research with Prof. Zhaoyang Lu     
   * Vehicle-to-PC communication  
   * Design of vehicle management system based on B/S framework  
   * Face detection in vehicles  
 
 **Telecommunication Engineering Lab, Chang’an University Xi’an, China （Sep. 2013 - Jun. 2014)**  
-  Undergraduate Student with Prof. Bei Bei Song   
-  * Denoising and enhancement of infrared road images  
+  Undergraduate Student with Prof. Bei Bei Song     
+  * Denoising and enhancement of infrared road images    
 
 ## Teaching Experience  
 * B38DF: Computer architecture and embedded systems, Xidian University, Spring 2018   
