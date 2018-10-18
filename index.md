@@ -8,7 +8,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 <div align="left">
         <strong> Xidian University, Xi'an, China (Sep 2015 - Now) </strong>
           <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="Xidian_logo.png" align="right" width="70" height="70">
+            <img border="0" src="Xidian_Logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -23,7 +23,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 <div align="left">
         <strong> Xidian University, Xi'an, China (Sep 2014 - Aug 2015) </strong>
           <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="Xidian_logo.png" align="right" width="70" height="70">
+            <img border="0" src="Xidian_Logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -38,7 +38,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 <div align="left">
         <strong> Chang'an University, Xi'an, China (Sep 2010 - Jun 2014) </strong>
           <a href="http://www.chd.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="CHD_Logo.jpg" align="right" width="70" height="70">
+            <img border="0" src="CHD_logo.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
