@@ -86,7 +86,7 @@ IEEE Signal Processing Letters (**SPL**), vol. 25, no. 6, pp. 848-852, June 2018
 
 [3] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://xdyangliu.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
-Complexity, vol. 2018, Article ID 5345241, 20 pages, 2018.    
+**Complexity**, vol. 2018, Article ID 5345241, 20 pages, 2018.    
 
 [4] [Combining Multiple Features for Cross-Domain Face Sketch Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
