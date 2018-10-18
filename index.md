@@ -110,10 +110,11 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 2016 First Class Academic Scholarship 
 
 
+
 <div align="center">
-        <strong>This page has been visited for
-          <a href="http://www.amazingcounters.com" target="_blank" rel="external">
-            <img border="0" src="http://cc.amazingcounters.com/counter.php?i=3221443&c=9664642" alt="AmazingCounters.com">
-          </a> times</strong>
-      </div>
-      
+
+<strong>This page has been visited for
+
+<a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a>times</strong>
+
+</div>      
