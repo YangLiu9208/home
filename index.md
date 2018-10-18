@@ -49,15 +49,11 @@ IEEE Transactions on Circuits and Systems for Video Technology, accepted.
 
 
 
-
-
 Global Temporal Representation based CNNs for Infrared Action Recognition 
 
 **Yang  Liu**, Zhaoyang  Lu,  Jing, Li, Tao Yang, Chao Yao. 
 
 IEEE Signal Processing Letters, vol. 25, no. 6, pp. 848-852, June 2018. 
-
-
 
 
 
@@ -69,8 +65,6 @@ Complexity, vol. 2018, Article ID 5345241, 20 pages, 2018.
 
 
 
-
-
 Combining Multiple Features for Cross-Domain Face Sketch Recognition 
 
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.
@@ -79,15 +73,11 @@ Chinese Conference on Biometric Recognition. Springer International Publishing, 
 
 
 
-
-
 A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching 
 
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 
 Journal of Xi'an Jiaotong University, vol. 52, no. 8, pp. 74-79, 2018.
-
-
 
 
 
