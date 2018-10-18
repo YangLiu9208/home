@@ -8,7 +8,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 <div align="left">
         <strong> Xidian University, Xi'an, China (Sep 2015 - Now) </strong>
           <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="Xidian_logo.png" align="right" width="70" height="70">
+            <img border="0" src="Xidian_logo.png" align="right" width="10" height="10">
           </a> 
         <ul>
         <li>
