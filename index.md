@@ -113,8 +113,8 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 
 <div align="center">
 
-<strong>This page has been visited for
+<strong>This page has been visited for 
 
-<a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a>times</strong>
+<a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a> times</strong>
 
 </div>      
