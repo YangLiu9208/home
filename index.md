@@ -49,27 +49,23 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
       </div>
 
 ## Research Experience
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2015 - present)**   
-  Doctoral Research with Prof. Zhaoyang Lu Sep. 2015 - Present    
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2015 - present)**     
   * Visible-to-infrared human action recognition  
   * Infrared human action recognition  
   * Cross-view human action recognition  
   * Transfer learning, domain adaptation, deep learning and zero-shot learning techniques for cross-domain action recognition  
 
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Mar. 2016 - Oct. 2016)**  
-  Graduate Research with Prof. Jing Li   
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Mar. 2016 - Oct. 2016)**    
   * Cross-domain image recognition
   * Face sketch recognition
   * Multiple features fusion
 
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2014 - Aug. 2016)**  
-  Graduate Research with Prof. Zhaoyang Lu     
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2014 - Aug. 2016)**    
   * Vehicle-to-PC communication  
   * Design of vehicle management system based on B/S framework  
   * Face detection in vehicles  
 
-**Telecommunication Engineering Lab, Chang’an University Xi’an, China （Sep. 2013 - Jun. 2014)**  
-  Undergraduate Student with Prof. Bei Bei Song     
+**Telecommunication Engineering Lab, Chang’an University Xi’an, China （Sep. 2013 - Jun. 2014)**    
   * Denoising and enhancement of infrared road images    
 
 ## Teaching Experience  
@@ -114,3 +110,5 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 <strong>This page has been visited for 
 <a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a> times</strong>
 </div>      
+
+<a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
