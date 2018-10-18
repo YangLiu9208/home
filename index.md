@@ -111,4 +111,6 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 <a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a> times</strong>
 </div>      
 
+<div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
+</div> 
