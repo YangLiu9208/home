@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://www.google.com/url?q=http%3A%2F%2Fste.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNFW3QInDioczJ0y47mgmGrPenAhLw), [Xidian University](https://www.google.com/url?q=https%3A%2F%2Fwww.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNGAvDSiTdblfSpGIqXXY4OHJzCq6g). My supervisor is Prof. [Zhaoyang Lu](http://www.google.com/url?q=http%3A%2F%2Fweb.xidian.edu.cn%2Fzhylu%2F&sa=D&sntz=1&usg=AFQjCNG9KemUeMEn4Zuj7rWUrscuGvMTqQ). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.google.com/url?q=http%3A%2F%2Fwww.chd.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNF4JwHluZw3pcNRW2Sjff5mhANN9w). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning. My CV 
+I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://www.google.com/url?q=http%3A%2F%2Fste.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNFW3QInDioczJ0y47mgmGrPenAhLw), [Xidian University](https://www.google.com/url?q=https%3A%2F%2Fwww.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNGAvDSiTdblfSpGIqXXY4OHJzCq6g). My supervisor is Prof. [Zhaoyang Lu](http://www.google.com/url?q=http%3A%2F%2Fweb.xidian.edu.cn%2Fzhylu%2F&sa=D&sntz=1&usg=AFQjCNG9KemUeMEn4Zuj7rWUrscuGvMTqQ). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.google.com/url?q=http%3A%2F%2Fwww.chd.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNF4JwHluZw3pcNRW2Sjff5mhANN9w). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning.  
 
 ## Education
 <div align="left">
@@ -23,7 +23,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 <div align="left">
         <strong> Xidian University, Xi'an, China (Sep 2014 - Aug 2015) </strong>
           <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="J:\Github repository\yangliu.github.io\Xidian_logo.png" align="right" width="70" height="70">
+            <img border="0" src="Xidian_logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
