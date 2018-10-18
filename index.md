@@ -49,14 +49,10 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
       </div>
 
 
-## Teaching Experience
-Teaching Assistant at Xidian University for:
-
-* B38DF: Computer architecture and embedded systems, Spring 2018, 
-
-  Instructors: Mustafa Suphi Erden, Paul Record 
+## Teaching Experience  
+* B38DF: Computer architecture and embedded systems, Xidian University, Spring 2018   
+  Instructors: Mustafa Suphi Erden, Paul Record   
         
-
 ## Publications
 [1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
@@ -82,15 +78,13 @@ Journal of Xi'an Jiaotong University, vol. 52, no. 8, pp. 74-79, 2018.
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 Journal of Xi'an Jiaotong University, vol. 51, no. 12, pp. 62-67, 2017.  
 
-## Professional Services
+## Professional Services  
 Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, etc.
 
-## Awards
-2018 National Scholarship for Doctoral Candidates
-
-2017 First Class Academic Scholarship
-
-2016 First Class Academic Scholarship 
+## Awards  
+2018 National Scholarship for Doctoral Candidates  
+2017 First Class Academic Scholarship  
+2016 First Class Academic Scholarship   
 
 
 <div align="center">
