@@ -53,7 +53,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 
 ## Research Experience
 **(Sep. 2015 - present)**  
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China **     
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China**     
   * Visible-to-infrared human action recognition  
   * Infrared human action recognition  
   * Cross-view human action recognition  
