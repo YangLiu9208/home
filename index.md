@@ -76,7 +76,7 @@ I am currently looking for postdoc position. If you are interested, please conta
   Instructors: Mustafa Suphi Erden, Paul Record   
         
 ## Publications
-[1] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)[codes](https://xdyangliu.github.io/JSRDA/)   
+[1] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://xdyangliu.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted.   
 
