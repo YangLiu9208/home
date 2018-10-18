@@ -8,7 +8,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 <div align="left">
         <strong> Xidian University, Xi'an, China (Sep 2015 - Now) </strong>
           <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="Xidian_logo.png" align="right" width="10" height="10">
+            <img border="0" src="Xidian_logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -58,7 +58,7 @@ Teaching Assistant at Xidian University for:
         
 
 ## Publications
-[1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition 
+[1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition
 
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.
 
@@ -66,7 +66,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, accepted.
 
 
 
-[2] Global Temporal Representation based CNNs for Infrared Action Recognition 
+[2] Global Temporal Representation based CNNs for Infrared Action Recognition
 
 **Yang  Liu**, Zhaoyang  Lu,  Jing, Li, Tao Yang, Chao Yao. 
 
