@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://www.google.com/url?q=http%3A%2F%2Fste.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNFW3QInDioczJ0y47mgmGrPenAhLw), [Xidian University](https://www.google.com/url?q=https%3A%2F%2Fwww.xidian.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNGAvDSiTdblfSpGIqXXY4OHJzCq6g). My supervisor is Prof. [Zhaoyang Lu](http://www.google.com/url?q=http%3A%2F%2Fweb.xidian.edu.cn%2Fzhylu%2F&sa=D&sntz=1&usg=AFQjCNG9KemUeMEn4Zuj7rWUrscuGvMTqQ). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.google.com/url?q=http%3A%2F%2Fwww.chd.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNF4JwHluZw3pcNRW2Sjff5mhANN9w). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning.  
+I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). My supervisor is Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning.  
 
 ## Education
 <div align="left">
@@ -59,52 +59,28 @@ Teaching Assistant at Xidian University for:
 
 ## Publications
 [1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition
-
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.
-
 IEEE Transactions on Circuits and Systems for Video Technology, accepted. 
 
-
-
 [2] Global Temporal Representation based CNNs for Infrared Action Recognition
-
 **Yang  Liu**, Zhaoyang  Lu,  Jing, Li, Tao Yang, Chao Yao. 
-
 IEEE Signal Processing Letters, vol. 25, no. 6, pp. 848-852, June 2018. 
 
-
-
 [3] Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition 
-
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.
-
 Complexity, vol. 2018, Article ID 5345241, 20 pages, 2018.  
 
-
-
 [4] Combining Multiple Features for Cross-Domain Face Sketch Recognition 
-
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.
-
 Chinese Conference on Biometric Recognition (CCBR). Springer International Publishing, 2016: 139-146.
 
-
-
 [5] A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching 
-
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
-
 Journal of Xi'an Jiaotong University, vol. 52, no. 8, pp. 74-79, 2018.
 
-
-
 [6] Road Scene Segmentation Using Hierarchical Graph-based Inference 
-
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
-
 Journal of Xi'an Jiaotong University, vol. 51, no. 12, pp. 62-67, 2017.
-
-
 
 ## Professional Services
 Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, etc.
@@ -117,11 +93,7 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 2016 First Class Academic Scholarship 
 
 
-
 <div align="center">
-
 <strong>This page has been visited for 
-
 <a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227792&c=9683689" alt="AmazingCounters.com"></a> times</strong>
-
 </div>      
