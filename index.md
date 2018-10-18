@@ -4,6 +4,9 @@ layout: default
 ## About Me
 I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). My supervisor is Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning.  
 
+## News
+I am currently looking for postdoc position. If you are interested, please contact me.
+
 ## Education
 <div align="left">
         <strong> Xidian University, Xi'an, China (Sep 2015 - Now) </strong>
@@ -73,7 +76,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
   Instructors: Mustafa Suphi Erden, Paul Record   
         
 ## Publications
-[1] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  
+[1] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)[codes](https://xdyangliu.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted.   
 
