@@ -2,10 +2,10 @@
 layout: default
 ---
 ## About Me
-I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). My supervisor is Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My research interests include: cross-domain action recognition, computer vision, pattern recognition and machine learning.  
+I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). My supervisor is Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My research interests include: **cross-domain action recognition, transfer learning and domain adaptation related problems**.  
 
 ## News
-I am currently looking for postdoc position. If you are interested, please contact me.
+**I am currently looking for postdoc position. If you are interested, please contact me**.
 
 ## Education
 <div align="left">
