@@ -108,8 +108,8 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 2018 National Scholarship for Doctoral Candidates  
 2017 First Class Academic Scholarship  
 2016 First Class Academic Scholarship   
-2013 The Third Prize of National English Competition for College Students
-2013 The Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling
+2013 The Third Prize of National English Competition for College Students  
+2013 The Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling  
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
