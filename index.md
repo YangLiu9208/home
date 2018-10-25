@@ -91,7 +91,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 
 [4] [Combining Multiple Features for Cross-Domain Face Sketch Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
-**Chinese Conference on Biometric Recognition 2016 ** (**CCBR 2016**), 2016: 139-146.  
+**Chinese Conference on Biometric Recognition 2016** (**CCBR 2016**), 2016: 139-146.  
 
 [5] [A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)     
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
