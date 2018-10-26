@@ -106,7 +106,7 @@ Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and
 
 ## Awards  
 2018 National Scholarship for Doctoral Candidates  
-2018 Excellent doctoral candidates 
+2018 Excellent doctoral candidates    
 2017 First Class Academic Scholarship  
 2016 First Class Academic Scholarship   
 2013 Third Prize of National English Competition for College Students   
