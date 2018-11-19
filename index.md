@@ -118,10 +118,10 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, etc.
 
 ## Awards  
-2018 National Scholarship for Doctoral Candidates  
-2018 Excellent doctoral candidates    
-2017 First Class Academic Scholarship  
-2016 First Class Academic Scholarship   
+2018 National Scholarship for PhD Students  
+2018 Excellent PhD Students      
+2017 First Class Academic Scholarship for PhD Students  
+2016 First Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition for College Students   
 2013 Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling   
 
