@@ -105,6 +105,15 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
 
+## Patents(Chinese)    
+[1] 一种对装有车载监控终端的车辆监控系统及其方法   
+卢朝阳, 邓顺, 李静, **刘阳**, 许琼.    
+国家发明专利CN201710038660.   
+
+[2] 车辆监控系统的统计报表生成方法   
+卢朝阳, 许琼, 李静, 邓顺, **刘阳**.  
+国家发明专利CN201710023655.  
+
 ## Professional Services  
 Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, etc.
 
