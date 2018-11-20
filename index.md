@@ -49,7 +49,8 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
         <li>
           Graduated with Excellent Thesis Award</li>
       </ul>      
-      </div>
+      </div>  
+      
 ## Awards  
 2018 National Scholarship for PhD Students  
 2018 Excellent PhD Students      
