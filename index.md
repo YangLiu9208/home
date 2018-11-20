@@ -115,15 +115,15 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 国家发明专利CN201710023655.  
 
 ## Professional Services  
-Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, etc.
+Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, International Conference on Computer Science and Application Engineering (CSAE 2018), Control and Decision.  
 
 ## Awards  
 2018 National Scholarship for PhD Students  
 2018 Excellent PhD Students      
 2017 First Class Academic Scholarship for PhD Students  
-2016 First Class Academic Scholarship for Master Students   
+2015 Second Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition for College Students   
-2013 Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling   
+2012 Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling   
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
