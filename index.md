@@ -50,32 +50,14 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
           Graduated with Excellent Thesis Award</li>
       </ul>      
       </div>
+## Awards  
+2018 National Scholarship for PhD Students  
+2018 Excellent PhD Students      
+2017 First Class Academic Scholarship for PhD Students  
+2015 Second Class Academic Scholarship for Master Students   
+2013 Third Prize of National English Competition for College Students   
+2012 Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling   
 
-## Research Experience  
-
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2015 - present)**     
-  * Visible-to-infrared human action recognition  
-  * Infrared human action recognition  
-  * Cross-view human action recognition  
-  * Transfer learning, domain adaptation, deep learning and zero-shot learning techniques for cross-domain action recognition  
-
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Mar. 2016 - Oct. 2016)**    
-  * Cross-domain image recognition
-  * Face sketch recognition
-  * Multiple features fusion
-
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2014 - Aug. 2016)**      
-  * Vehicle-to-PC communication  
-  * Design of vehicle management system based on B/S framework  
-  * Face detection in vehicles  
-
-**Telecommunication Engineering Lab, Chang’an University Xi’an, China （Sep. 2013 - Jun. 2014)**      
-  * Denoising and enhancement of infrared road images    
-
-## Teaching Experience  
-* B38DF: Computer architecture and embedded systems, Xidian University, Spring 2018   
-  Instructors: Mustafa Suphi Erden, Paul Record   
-        
 ## Publications  
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
@@ -114,16 +96,33 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 卢朝阳, 许琼, 李静, 邓顺, **刘阳**.  
 国家发明专利CN201710023655.  
 
-## Professional Services  
-Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, International Conference on Computer Science and Application Engineering (CSAE 2018), Control and Decision.  
+## Research Experience  
 
-## Awards  
-2018 National Scholarship for PhD Students  
-2018 Excellent PhD Students      
-2017 First Class Academic Scholarship for PhD Students  
-2015 Second Class Academic Scholarship for Master Students   
-2013 Third Prize of National English Competition for College Students   
-2012 Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling   
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2015 - present)**     
+  * Visible-to-infrared human action recognition  
+  * Infrared human action recognition  
+  * Cross-view human action recognition  
+  * Transfer learning, domain adaptation, deep learning and zero-shot learning techniques for cross-domain action recognition  
+
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Mar. 2016 - Oct. 2016)**    
+  * Cross-domain image recognition
+  * Face sketch recognition
+  * Multiple features fusion
+
+**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2014 - Aug. 2016)**      
+  * Vehicle-to-PC communication  
+  * Design of vehicle management system based on B/S framework  
+  * Face detection in vehicles  
+
+**Telecommunication Engineering Lab, Chang’an University Xi’an, China （Sep. 2013 - Jun. 2014)**      
+  * Denoising and enhancement of infrared road images    
+
+## Teaching Experience  
+* B38DF: Computer architecture and embedded systems, Xidian University, Spring 2018   
+  Instructors: Mustafa Suphi Erden, Paul Record   
+  
+## Professional Services  
+Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, International Conference on Computer Science and Application Engineering (CSAE), Control and Decision.  
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
