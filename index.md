@@ -57,8 +57,7 @@ I'm Yang Liu (刘阳), a fourth year PhD student at [Institute of Telecommunicat
 2017 First Class Academic Scholarship for PhD Students  
 2015 Second Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition for College Students   
-2012 Second Prize in Shannxi Province in China Undergraduate Mathematical Contest in Modeling   
-
+2012 Second Prize in Shannxi Province of National Undergraduate Mathematical Modeling Contest
 ## Publications  
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
