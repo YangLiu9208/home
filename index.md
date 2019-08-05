@@ -2,11 +2,12 @@
 layout: default
 ---
 ## About Me
-I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My [English CV](https://drive.google.com/open?id=1Zp2Nk_MW1x1_96nV6d4g1w8R2UspKcOY). My [Chinese CV](https://drive.google.com/open?id=1dJGqxSNH_pugJt5I__vWtuWRutw7sgEh).  
+I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor [Liang Lin](http://www.linliang.net/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My [English CV](https://drive.google.com/open?id=1Zp2Nk_MW1x1_96nV6d4g1w8R2UspKcOY). My [Chinese CV](https://drive.google.com/open?id=1dJGqxSNH_pugJt5I__vWtuWRutw7sgEh).  
 
 ## Research interests
-Human Action Recognition  
-Transfer learning, Domain adaptation, Zero-shot learning and their Applications  
+Human Action Recognition 
+Transfer learning, Domain adaptation, Zero-shot learning and their Applications
+Knowledge Graph and its application to human action understanding
 Heterogeneous Face Recognition  
 Computer Vision and Pattern Recognition
 
