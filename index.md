@@ -69,7 +69,7 @@ submitted to **IEEE Transactions on Image Processing** (**TIP**), under review.
 
 [2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://xdyangliu.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
-**IEEE Transactions on Circuits and Systems for Video Technology** (**TCSVT**), accepted.   
+**IEEE Transactions on Circuits and Systems for Video Technology** (**TCSVT**), vol. 29, no. 8, pp. 2416-2430, Aug. 2019.   
 
 [3] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://xdyangliu.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
