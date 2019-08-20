@@ -2,14 +2,13 @@
 layout: default
 ---
 ## About Me
-I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). Before I joined Xidian University, I received my bachelor degree in Telecommunication Engineering from [Chang'an University](http://www.chd.edu.cn/). My [English CV](https://drive.google.com/open?id=1Q5dyiX7RWbashRSv-_U7NgtH3hqfy2q9). 
+I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). [CV](https://drive.google.com/open?id=1Q5dyiX7RWbashRSv-_U7NgtH3hqfy2q9). 
 
 ## Research interests
 Human Action Recognition  
-Transfer learning, Domain adaptation, Zero-shot learning and their Applications  
+Transfer learning, Domain adaptation, Zero-shot learning  
 Knowledge Graph and its application to human action understanding  
 Heterogeneous Face Recognition  
-Computer Vision and Pattern Recognition
 
 ## Education
 <div align="left">
@@ -90,31 +89,6 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 [7] [Road Scene Segmentation Using Hierarchical Graph-based Inference](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)     
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
-
-## Research Experience  
-
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2015 - present)**     
-  * Visible-to-infrared human action recognition  
-  * Infrared human action recognition  
-  * Cross-view human action recognition  
-  * Transfer learning, domain adaptation, deep learning and zero-shot learning techniques for cross-domain action recognition  
-
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Mar. 2016 - Oct. 2016)**    
-  * Cross-domain image recognition
-  * Face sketch recognition
-  * Multiple features fusion
-
-**Intelligent Signal Processing and Pattern Recognition Lab, Xidian University Xi’an, China (Sep. 2014 - Aug. 2016)**      
-  * Vehicle-to-PC communication  
-  * Design of vehicle management system based on B/S framework  
-  * Face detection in vehicles  
-
-**Telecommunication Engineering Lab, Chang’an University Xi’an, China （Sep. 2013 - Jun. 2014)**      
-  * Denoising and enhancement of infrared road images    
-
-## Teaching Experience  
-* B38DF: Computer architecture and embedded systems, Xidian University, Spring 2018   
-  Instructors: Mustafa Suphi Erden, Paul Record   
   
 ## Professional Services  
 Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, International Conference on Computer Science and Application Engineering (CSAE), Control and Decision.  
