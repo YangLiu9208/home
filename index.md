@@ -40,7 +40,7 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
   
 ## Professional Services  
-Reviewer for 
+Reviewer for   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
 
