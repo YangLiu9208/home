@@ -6,8 +6,8 @@ I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hc
 
 ## Research interests
 Human Action Understanding  
-Transfer learning, Domain adaptation, Zero-shot learning   
-Knowledge Graph, cognitive intelligence   
+Transfer Learning, Domain Adaptation, Zero-shot Learning   
+Knowledge Graph, Cognitive Intelligence   
      
 ## Publications  
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
