@@ -40,7 +40,9 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
   
 ## Professional Services  
-Reviewer for IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems for Video Technology, Pattern recognition and Neurocomputing, International Conference on Computer Science and Application Engineering (CSAE), Control and Decision.  
+Reviewer for 
+IEEE Transactions on Cybernetics  
+IEEE Transactions on Circuits and Systems for Video Technology  
 
 ## Awards  
 2018 National Scholarship for PhD Students  
