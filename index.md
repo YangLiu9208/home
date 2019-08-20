@@ -5,10 +5,9 @@ layout: default
 I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). My [CV](https://drive.google.com/open?id=1Q5dyiX7RWbashRSv-_U7NgtH3hqfy2q9). 
 
 ## Research interests
-Human Action Recognition  
+Human Action Understanding
 Transfer learning, Domain adaptation, Zero-shot learning  
-Knowledge Graph and its application to human action understanding  
-Heterogeneous Face Recognition  
+Knowledge Graph, cognitive intelligence   
      
 ## Publications  
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
