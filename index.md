@@ -9,51 +9,7 @@ Human Action Recognition
 Transfer learning, Domain adaptation, Zero-shot learning  
 Knowledge Graph and its application to human action understanding  
 Heterogeneous Face Recognition  
-
-## Education
-<div align="left">
-        <strong> Xidian University, Xi'an, China (Sep 2015 - Now) </strong>
-          <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="xidian_logo.png" align="right" width="70" height="70">
-          </a> 
-        <ul>
-        <li>
-          Doctor of Philosophy (Ph.D), Communication and Information Systems</li>
-        <li>
-          Advisor: Prof. Zhaoyang Lu</li>
-      </ul>      
-      </div>
-
-
-
-<div align="left">
-        <strong> Xidian University, Xi'an, China (Sep 2014 - Aug 2015) </strong>
-          <a href="https://www.xidian.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="xidian_logo.png" align="right" width="70" height="70">
-          </a> 
-        <ul>
-        <li>
-          Master of Science (M.Sc), Communication and Information Systems</li>
-        <li>
-          Advisor: Prof. Zhaoyang Lu</li>
-      </ul>      
-      </div>
-
-
-
-<div align="left">
-        <strong> Chang'an University, Xi'an, China (Sep 2010 - Jun 2014) </strong>
-          <a href="http://www.chd.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="chd_logo.jpg" align="right" width="70" height="70">
-          </a> 
-        <ul>
-        <li>
-          Bachelor of Engineering (B.E), Telecommunications Engineering</li>
-        <li>
-          Graduated with Excellent Thesis Award</li>
-      </ul>      
-      </div>  
-      
+     
 ## Awards  
 2018 National Scholarship for PhD Students  
 2018 Excellent PhD Students      
