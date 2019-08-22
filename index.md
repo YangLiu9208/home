@@ -12,7 +12,7 @@ Knowledge Graph, Cognitive Intelligence
 ## Publications  
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing** (**TIP**), under review.   
+**IEEE Transactions on Image Processing** (**TIP**), major revision.   
 
 [2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://xdyangliu.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
