@@ -14,15 +14,15 @@ Knowledge Graph, Cognitive Intelligence
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing** (**TIP**), major revision.   
 
-[2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://xdyangliu.github.io/JSRDA/)   
+[2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://yangliu9208.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 **IEEE Transactions on Circuits and Systems for Video Technology** (**TCSVT**), vol. 29, no. 8, pp. 2416-2430, Aug. 2019.   
 
-[3] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://xdyangliu.github.io/TSTDDs/)    
+[3] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://yangliu9208.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 **IEEE Signal Processing Letters** (**SPL**), vol. 25, no. 6, pp. 848-852, June 2018.   
 
-[4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://xdyangliu.github.io/CDFAG/)     
+[4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://yangliu9208.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 20 pages, 2018.    
 
