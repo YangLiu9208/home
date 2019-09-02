@@ -42,7 +42,7 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 Reviewer for   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
-International Conference on Computer Science and Application Engineering 2018
+International Conference on Computer Science and Application Engineering 2018  
 Control and Decision  
 
 ## Awards  
