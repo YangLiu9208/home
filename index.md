@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Yang Liu (刘阳), a postdoctoral researcher at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). My [CV](https://drive.google.com/open?id=1Q5dyiX7RWbashRSv-_U7NgtH3hqfy2q9). 
+I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PhD degreet in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). My [CV](https://drive.google.com/open?id=1Q5dyiX7RWbashRSv-_U7NgtH3hqfy2q9). 
 
 ## Research interests
 Human Action Understanding  
@@ -42,6 +42,8 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 Reviewer for   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
+2nd International Conference on Computer Science and Application Engineering (CSAE 2018)  
+Control and Decision  
 
 ## Awards  
 2018 National Scholarship for PhD Students  
