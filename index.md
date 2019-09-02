@@ -8,7 +8,8 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 Human Action Understanding  
 Transfer Learning, Domain Adaptation, Zero-shot Learning   
 Knowledge Graph, Cognitive Intelligence   
-     
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9423-9252" href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9423-9252</a></div>  
 ## Publications  
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
