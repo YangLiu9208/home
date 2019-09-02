@@ -16,15 +16,15 @@ Knowledge Graph, Cognitive Intelligence
 ## Publications 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing** (**TIP**), major revision.   
+**IEEE Transactions on Image Processing**, major revision.   
 
 [2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://yangliu9208.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
-**IEEE Transactions on Circuits and Systems for Video Technology** (**TCSVT**), vol. 29, no. 8, pp. 2416-2430, Aug. 2019.   
+**IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, Aug. 2019.   
 
 [3] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://yangliu9208.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
-**IEEE Signal Processing Letters** (**SPL**), vol. 25, no. 6, pp. 848-852, June 2018.   
+**IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, June 2018.   
 
 [4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://yangliu9208.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
