@@ -42,14 +42,14 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
   
-## Professional Services  
+## Academic Services 
 Reviewer for   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
 International Conference on Computer Science and Application Engineering 2018  
 Control and Decision  
 
-## Awards  
+## Selected Honors & Awards  
 2018 National Scholarship for PhD Students  
 2018 Excellent PhD Students      
 2017 First Class Academic Scholarship for PhD Students  
