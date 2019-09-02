@@ -42,7 +42,7 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 Reviewer for   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
-2nd International Conference on Computer Science and Application Engineering (CSAE 2018)  
+International Conference on Computer Science and Application Engineering 2018
 Control and Decision  
 
 ## Awards  
@@ -51,7 +51,7 @@ Control and Decision
 2017 First Class Academic Scholarship for PhD Students  
 2015 Second Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition for College Students   
-2012 Second Prize in Shannxi Province of National Undergraduate Mathematical Modeling Contest
+2012 Second Prize in National Undergraduate Mathematical Modeling Contest
 
 <div align="center">
 <a href='https://clustrmaps.com/site/1afab'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U'/></a>
