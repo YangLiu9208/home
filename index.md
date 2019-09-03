@@ -14,6 +14,9 @@ Deep Learning, Transfer Learning, Domain Adaptation, Zero-shot Learning
 Knowledge Graph, Cognitive Reasoning  
 Graph Embedding, Graph Neural/Convolutional/Attention Networks  
 
+## PhD Thesis  
+Yang Liu. Cross-domain Action Recognition via Transfer Learning. 1-127, 2019 [PDF] (In Chinese)  
+
 ## Publications 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
