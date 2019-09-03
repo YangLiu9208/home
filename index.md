@@ -10,8 +10,9 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## Research interests
 Human Action Understanding  
-Transfer Learning, Domain Adaptation, Zero-shot Learning   
-Knowledge Graph, Cognitive Intelligence  
+Deep Learning, Transfer Learning, Domain Adaptation, Zero-shot Learning   
+Knowledge Graph, Cognitive Reasoning  
+Graph Neural/Convolutional/Attention/Embedding Networks  
 
 ## Publications 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
@@ -20,15 +21,15 @@ Knowledge Graph, Cognitive Intelligence
 
 [2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://yangliu9208.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
-**IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, Aug. 2019.   
+**IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, 2019.   
 
 [3] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://yangliu9208.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
-**IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, June 2018.   
+**IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.   
 
 [4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://yangliu9208.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
-**Complexity**, vol. 2018, Article ID 5345241, 20 pages, 2018.    
+**Complexity**, vol. 2018, Article ID 5345241, 2018.    
 
 [5] [Combining Multiple Features for Cross-Domain Face Sketch Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
