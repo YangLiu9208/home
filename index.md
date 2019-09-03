@@ -12,7 +12,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 Human Action Understanding  
 Deep Learning, Transfer Learning, Domain Adaptation, Zero-shot Learning   
 Knowledge Graph, Cognitive Reasoning  
-Graph Neural/Convolutional/Attention/Embedding Networks  
+Graph Embedding, Graph Neural/Convolutional/Attention Networks  
 
 ## Publications 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
