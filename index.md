@@ -15,7 +15,7 @@ Knowledge Graph, Cognitive Reasoning
 Graph Embedding, Graph Neural/Convolutional/Attention Networks  
 
 ## PhD Thesis  
-Yang Liu. Cross-domain Human Action Recognition via Transfer Learning. 1-142, 2019 [PDF] (In Chinese)  
+Cross-domain Human Action Recognition via Transfer Learning. 1-142, 2019. (In Chinese)  
 
 ## Publications 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
