@@ -14,10 +14,10 @@ Deep Learning, Transfer Learning, Domain Adaptation, Zero-shot Learning
 Knowledge Graph, Cognitive Reasoning  
 Graph Embedding, Graph Neural/Convolutional/Attention Networks  
 
-## PhD Thesis  
+## PhD thesis  
 Cross-domain Human Action Recognition via Transfer Learning. 1-142, 2019. (In Chinese)  
 
-## Journal Papers 
+## Journal papers 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, major revision.   
@@ -42,19 +42,19 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
 
-## Conference Papers 
+## Conference papers 
 [1] [Combining Multiple Features for Cross-Domain Face Sketch Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition**, 2016: 139-146.  
 
-## Academic Services 
+## Academic services 
 Reviewer for   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
 International Conference on Computer Science and Application Engineering 2018  
 Control and Decision  
 
-## Selected Honors & Awards  
+## Selected honors & awards  
 2018 National Scholarship for PhD Students  
 2018 Excellent PhD Students      
 2017 First Class Academic Scholarship for PhD Students  
