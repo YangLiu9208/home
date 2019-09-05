@@ -29,7 +29,7 @@ Cross-domain Human Action Recognition via Transfer Learning. 1-142, 2019. (In Ch
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 **IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.   
 
-[4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://xdyangliu.github.io/TSTDDs/) [[codes]](https://yangliu9208.github.io/CDFAG/)     
+[4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://yangliu9208.github.io/TSTDDs/) [[codes]](https://yangliu9208.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
 
