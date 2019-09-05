@@ -62,5 +62,5 @@ Control and Decision
 2012 Second Prize in National Undergraduate Mathematical Modeling Contest
 
 <div align="center">
-<a href='https://clustrmaps.com/site/1afab'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U'/></a>
+<a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
 </div> 
