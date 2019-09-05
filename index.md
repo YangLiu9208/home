@@ -9,7 +9,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## Research interests
 Human Action Understanding  
-Deep Learning, Transfer Learning, Domain Adaptation, Zero-shot Learning   
+Deep Learning, Transfer Learning
 Knowledge Graph, Cognitive Reasoning  
 Graph Embedding, Graph Neural/Convolutional/Attention Networks  
 
