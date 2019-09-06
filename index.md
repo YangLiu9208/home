@@ -8,12 +8,12 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-supervisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my Ph.D degree in 2019 at [Institute of Telecommunication](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/).    
 
 ## News
-08/2019 One journal paper is published in IEEE Transactions on Circuits and Systems for Video Technology.   
-06/2018 One journal paper is published in IEEE Signal Processing Letters.  
-02/2018 One journal paper is published in Complexity.   
-01/2018 One journal paper is published in Journal of Xi'an Jiaotong University.  
-08/2017 One journal paper is published in Journal of Xi'an Jiaotong University.  
-09/2016 One conference paper is accepted by Chinese Conference on Biometric Recognition 2016.  
+08/2019:  One journal paper is published in IEEE Transactions on Circuits and Systems for Video Technology.   
+06/2018:  One journal paper is published in IEEE Signal Processing Letters.  
+02/2018:  One journal paper is published in Complexity.   
+01/2018:  One journal paper is published in Journal of Xi'an Jiaotong University.  
+08/2017:  One journal paper is published in Journal of Xi'an Jiaotong University.  
+09/2016:  One conference paper is accepted by Chinese Conference on Biometric Recognition 2016.  
 
 ## Research interests
 Human Action Understanding  
