@@ -21,10 +21,10 @@ Deep Learning, Transfer Learning
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
 
 ## PhD thesis  
-Cross-domain Human Action Recognition via Transfer Learning. 1-142, 2019. (In Chinese)  
+[Cross-domain Human Action Recognition via Transfer Learning](https://yangliu9208.github.io/home/). 1-142, 2019. (In Chinese)  
 
 ## Journal papers 
-[1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition   
+[1] [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://yangliu9208.github.io/home/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, major revision.   
 
