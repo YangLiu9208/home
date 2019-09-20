@@ -26,7 +26,7 @@ Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks
 ## Journal papers 
 [1] [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://yangliu9208.github.io/home/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing**, major revision.   
+**IEEE Transactions on Image Processing**, under major revision.   
 
 [2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://yangliu9208.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
