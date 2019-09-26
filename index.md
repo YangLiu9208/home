@@ -11,7 +11,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 08/2019:&nbsp;   One journal paper is published in IEEE TCSVT (JCR Rank 1, IF:4.046).   
 08/2019:&nbsp;   I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 07/2019:&nbsp;   I obtain my Ph.D degree from Xidian University.   
-11/2018:&nbsp;   I am invited to give a talk at The Second Session of Telecommunication Bridge.  
+11/2018:&nbsp;   I am invited to give a talk at The Second Session of Telecommunication Bridge and  obtain the second prize.  
 10/2018:&nbsp;   I obtain the National Scholarship for PhD Students (30,000 RMB).    
 07/2018:&nbsp;   I am invited to give a talk at a Postgraduate Symposium.   
 06/2018:&nbsp;   One journal paper is published in IEEE SPL (JCR Rank 2, IF:3.268).  
