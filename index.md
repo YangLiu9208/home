@@ -58,6 +58,11 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition**, 2016: 139-146.  
 
+## Patents (in Chinese) 
+[1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
+
+[2] 卢朝阳，许琼，李静，邓顺，**刘阳**. " 车辆监控系统的统计报表生成方法". 国家发明专利CN106682232A  
+
 ## Academic services 
 Reviewer for   
 IEEE Transactions on Cybernetics  
