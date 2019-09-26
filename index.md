@@ -9,7 +9,9 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## News
 08/2019:&nbsp;   One journal paper is published in IEEE TCSVT (JCR Rank 1, IF:4.046).   
+08/2019:&nbsp;   I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 07/2019:&nbsp;   I obtain my Ph.D degree from Xidian University.     
+10/2018:&nbsp;   I obtain the National Scholarship for PhD Students (30,000 RMB).    
 06/2018:&nbsp;   One journal paper is published in IEEE SPL (JCR Rank 2, IF:3.268).  
 02/2018:&nbsp;   One journal paper is published in Complexity (JCR Rank 1, IF:4.621).   
 01/2018:&nbsp;   One journal paper is published in Journal of Xi'an Jiaotong University.  
