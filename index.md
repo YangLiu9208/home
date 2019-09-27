@@ -21,7 +21,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 09/2016:&nbsp;   One conference paper is accepted by CCBR.  
 
 ## Research interests
-Human Action Understanding, Multi-modal Action Recognition  
+Human Action Understanding, Heterogenous Action Recognition  
 Deep Learning, Transfer Learning, Domain Adaptation  
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
 
