@@ -45,16 +45,16 @@ Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
 
-[5] [A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)     
+[5] A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching  [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)     
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University**, vol. 52, no. 8, pp. 74-79, 2018.  
 
-[6] [Road Scene Segmentation Using Hierarchical Graph-based Inference](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)     
+[6] Road Scene Segmentation Using Hierarchical Graph-based Inference  [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)     
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
 
 ## Conference papers 
-[1] [Combining Multiple Features for Cross-Domain Face Sketch Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
+[1] Combining Multiple Features for Cross-Domain Face Sketch Recognition  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition**, 2016: 139-146.  
 
