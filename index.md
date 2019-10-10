@@ -29,7 +29,7 @@ Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks
 [Cross-domain Human Action Recognition via Transfer Learning](https://yangliu9208.github.io/home/). 1-142, 2019. (In Chinese)  
 
 ## Journal papers 
-[1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes will released soon]](https://yangliu9208.github.io/DIVAFN/)          
+[1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, under revision.   
 
