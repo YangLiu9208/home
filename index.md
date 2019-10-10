@@ -29,19 +29,19 @@ Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks
 [Cross-domain Human Action Recognition via Transfer Learning](https://yangliu9208.github.io/home/). 1-142, 2019. (In Chinese)  
 
 ## Journal papers 
-[1] [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://yangliu9208.github.io/home/)  [[codes will released soon]](https://yangliu9208.github.io/DIVAFN/)          
+[1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes will released soon]](https://yangliu9208.github.io/DIVAFN/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, under revision.   
 
-[2] [Hierarchically Learned View-Invariant Representations for Cross View Action Recognition](https://ieeexplore.ieee.org/document/8453034/)  [[codes]](https://yangliu9208.github.io/JSRDA/)   
+[2] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, 2019.   
 
-[3] [Global Temporal Representation based CNNs for Infrared Action Recognition](https://ieeexplore.ieee.org/document/8332532) [[codes]](https://yangliu9208.github.io/TSTDDs/)    
+[3] Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 **IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.   
 
-[4] [Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition](https://yangliu9208.github.io/TSTDDs/) [[codes]](https://yangliu9208.github.io/CDFAG/)     
+[4] Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
 
