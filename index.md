@@ -33,7 +33,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="160" height="100">
+            <img border="0" src="./TIP.png" align="left" width="200" height="100">
           </a> 
 </div>
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
@@ -43,7 +43,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="160" height="100">
+            <img border="0" src="./TCSVT.png" align="left" width="200" height="100">
           </a> 
 </div>
 [2] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)   
@@ -53,7 +53,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="160" height="100">
+            <img border="0" src="./SPL.png" align="left" width="200" height="100">
           </a> 
 </div>
 [3] Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)    
@@ -63,7 +63,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="160" height="100">
+            <img border="0" src="./Complexity.png" align="left" width="200" height="100">
           </a> 
 </div>
 [4] Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
