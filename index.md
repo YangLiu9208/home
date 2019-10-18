@@ -32,7 +32,7 @@ Intelligent Transportation System
 ## Journal papers  
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="230" height="140">
+            <img border="0" src="./TIP.png" align="left" width="230" height="120">
           </a> 
 </div>
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
@@ -42,7 +42,7 @@ Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="230" height="140">
+            <img border="0" src="./TCSVT.png" align="left" width="230" height="120">
           </a> 
 </div>
 Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)   
@@ -52,7 +52,7 @@ Hierarchically Learned View-Invariant Representations for Cross View Action Reco
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="230" height="140">
+            <img border="0" src="./SPL.png" align="left" width="230" height="120">
           </a> 
 </div>
 Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)    
@@ -62,7 +62,7 @@ Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf
 
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="230" height="140">
+            <img border="0" src="./Complexity.png" align="left" width="230" height="120">
           </a> 
 </div>
 Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
