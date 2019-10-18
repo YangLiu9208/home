@@ -30,7 +30,6 @@ Intelligent Transportation System
 [Cross-domain Human Action Recognition via Transfer Learning](https://yangliu9208.github.io/home/). 1-142, 2019. (In Chinese)  
 
 ## Journal papers  
-
 <div align="left">
           <a>
             <img border="0" src="./TIP.png" align="left" width="230" height="140">
