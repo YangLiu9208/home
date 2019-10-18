@@ -81,7 +81,7 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 
 <div align="left">
           <a>
-            <img border="0" src="./XJT2.png" align="left" width="230" height="100">
+            <img border="0" src="./XJT2.png" align="left" width="230" height="110">
           </a> 
 </div>
 Road Scene Segmentation Using Hierarchical Graph-based Inference  [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)     
@@ -91,7 +91,7 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 ## Conference papers 
 <div align="left">
           <a>
-            <img border="0" src="./CCBR.png" align="left" width="230" height="100">
+            <img border="0" src="./CCBR.png" align="left" width="230" height="110">
           </a> 
 </div>
 Combining Multiple Features for Cross-Domain Face Sketch Recognition  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
