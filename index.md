@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<font face="黑体" size=3>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9423-9252" href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9423-9252</a></div>   
 
 ## Biography
@@ -117,6 +117,8 @@ Control and Decision
 2015 Second Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition   
 2012 Second Prize in National Mathematical Modeling Contest
+
+</font>
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
