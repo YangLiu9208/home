@@ -30,7 +30,7 @@ Intelligent Transportation System
 [Cross-domain Human Action Recognition via Transfer Learning](https://yangliu9208.github.io/home/). 1-142, 2019. (In Chinese)  
 
 ## Journal papers  
-<img src="./TIP.png" width="120" height="90" alt="test" align=left />
+<div align="center"><img src="./TIP.png" width="120" height="90" alt="test" align=left /></div> 
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, under revision.   
