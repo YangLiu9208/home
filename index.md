@@ -31,6 +31,15 @@ Intelligent Transportation System
 
 ## Journal papers  
 
+<div align="left">
+          <a>
+            <img border="0" src="./TIP.png" align="left" width="120" height="100">
+          </a> 
+  [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
+**Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
+**IEEE Transactions on Image Processing**, under revision.   
+      </div>
+      
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, under revision.   
