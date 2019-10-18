@@ -4,7 +4,7 @@ layout: default
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9423-9252" href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9423-9252</a></div>   
 
 ## Attitude
-From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do serious research and make significant contributions. Here I recommend some excellent book to my friends.   
+From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do **serious research** and make **significant contributions**. Here I recommend some excellent book to my friends.   
 **[1] Linear Algebra for Computer Vision, Robotics, and Machine Learning**[[pdf]](https://www.seas.upenn.edu/~cis515/linalg-I.pdf)  
 **[2] Fundamentals of Optimization TheoryWith Applications to Machine Learning**[[pdf]](https://www.seas.upenn.edu/~cis515/linalg-II.pdf)   
 **[3] Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning**[[pdf]](https://www.cis.upenn.edu/~jean/math-deep.pdf)
