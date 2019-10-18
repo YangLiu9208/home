@@ -19,6 +19,9 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 08/2017:&nbsp;   One journal paper is published in Journal of Xi'an Jiaotong University.  
 09/2016:&nbsp;   One conference paper is accepted by CCBR.  
 
+## Attitude
+From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do serious research and make significant contributions.
+
 ## Research interests
 Interpretable Human Action Understanding, Heterogenous Action Recognition  
 Deep Learning, Transfer Learning, Domain Adaptation  
