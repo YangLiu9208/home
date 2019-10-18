@@ -5,9 +5,6 @@ layout: default
 
 ## Attitude
 From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do **serious research** and make **significant contributions**. Here I recommend some excellent book to my friends.      
-[1] Linear Algebra for Computer Vision, Robotics, and Machine Learning     
-[2] Fundamentals of Optimization TheoryWith Applications to Machine Learning     
-[3] Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning    
 
 ## Biography
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PHD degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](http://teacher.nwpu.edu.cn/taoyang.html) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
