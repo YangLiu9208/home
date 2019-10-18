@@ -29,19 +29,23 @@ Intelligent Transportation System
 ## PhD thesis  
 [Cross-domain Human Action Recognition via Transfer Learning](https://yangliu9208.github.io/home/). 1-142, 2019. (In Chinese)  
 
-## Journal papers 
+## Journal papers  
+<img src="./TIP.png" width="120" height="90" alt="test" align=left />
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, under revision.   
 
+<img src="./TCSVT.png" width="120" height="90" alt="test" align=left />
 [2] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)   
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, 2019.   
 
+<img src="./SPL.png" width="120" height="90" alt="test" align=left />
 [3] Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)    
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 **IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.   
 
+<img src="./Complexity.png" width="120" height="90" alt="test" align=left />
 [4] Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
