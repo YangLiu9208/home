@@ -70,6 +70,7 @@ Intelligent Transportation System
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
 
+
 <div align="left">
           <a>
             <img border="0" src="./XJT1.png" align="left" width="240" height="140">
@@ -78,6 +79,7 @@ Intelligent Transportation System
 [5] A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching  [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)     
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University**, vol. 52, no. 8, pp. 74-79, 2018.  
+
 
 <div align="left">
           <a>
