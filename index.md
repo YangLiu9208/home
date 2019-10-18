@@ -20,7 +20,13 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 09/2016:&nbsp;   One conference paper is accepted by CCBR.  
 
 ## Attitude
-From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do serious research and make significant contributions.
+From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do serious research and make significant contributions. Here I recommend some excellent book for my friends.   
+
+**Linear Algebra for Computer Vision, Robotics, and Machine Learning**[[pdf]](https://www.seas.upenn.edu/~cis515/linalg-I.pdf)
+
+**Fundamentals of Optimization TheoryWith Applications to Machine Learning**[[pdf]](https://www.seas.upenn.edu/~cis515/linalg-II.pdf)
+
+**Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning**[[pdf]](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
 ## Research interests
 Interpretable Human Action Understanding, Heterogenous Action Recognition  
