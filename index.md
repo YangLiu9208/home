@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<font face="黑体" size=3>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9423-9252" href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9423-9252</a></div>   
 
 ## Biography
@@ -32,7 +31,7 @@ Intelligent Transportation System
 ## Journal papers  
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="230" height="100">
+            <img border="0" src="./TIP.png" align="left" width="230" height="110">
           </a> 
 </div>
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
@@ -42,7 +41,7 @@ Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="230" height="100">
+            <img border="0" src="./TCSVT.png" align="left" width="230" height="110">
           </a> 
 </div>
 Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)   
@@ -52,7 +51,7 @@ Hierarchically Learned View-Invariant Representations for Cross View Action Reco
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="230" height="100">
+            <img border="0" src="./SPL.png" align="left" width="230" height="110">
           </a> 
 </div>
 Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)    
@@ -62,7 +61,7 @@ Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf
 
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="230" height="100">
+            <img border="0" src="./Complexity.png" align="left" width="230" height="110">
           </a> 
 </div>
 Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
@@ -117,8 +116,6 @@ Control and Decision
 2015 Second Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition   
 2012 Second Prize in National Mathematical Modeling Contest
-
-</font>
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
