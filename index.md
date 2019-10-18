@@ -5,7 +5,6 @@ layout: default
 
 ## Attitude
 From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do serious research and make significant contributions. Here I recommend some excellent book for my friends.   
-
 **[1] Linear Algebra for Computer Vision, Robotics, and Machine Learning**[[pdf]](https://www.seas.upenn.edu/~cis515/linalg-I.pdf)  
 **[2] Fundamentals of Optimization TheoryWith Applications to Machine Learning**[[pdf]](https://www.seas.upenn.edu/~cis515/linalg-II.pdf)   
 **[3] Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning**[[pdf]](https://www.cis.upenn.edu/~jean/math-deep.pdf)
