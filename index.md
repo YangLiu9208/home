@@ -92,12 +92,12 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 ## Conference papers 
 <div align="left">
           <a>
-            <img border="0" src="./CCBR.png" align="left" width="230" height="140">
+            <img border="0" src="./CCBR.png" align="left" width="230" height="120">
           </a> 
 </div>
 Combining Multiple Features for Cross-Domain Face Sketch Recognition  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
-**Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.  
+**Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
 
 ## Patents (in Chinese) 
 [1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
