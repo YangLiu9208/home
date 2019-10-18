@@ -33,7 +33,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="240" height="120">
+            <img border="0" src="./TIP.png" align="left" width="240" height="140">
           </a> 
 </div>
 [1] Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition  [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
@@ -43,7 +43,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="240" height="120">
+            <img border="0" src="./TCSVT.png" align="left" width="240" height="140">
           </a> 
 </div>
 [2] Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)   
@@ -53,7 +53,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="240" height="120">
+            <img border="0" src="./SPL.png" align="left" width="240" height="140">
           </a> 
 </div>
 [3] Global Temporal Representation based CNNs for Infrared Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)    
@@ -63,7 +63,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="240" height="120">
+            <img border="0" src="./Complexity.png" align="left" width="240" height="140">
           </a> 
 </div>
 [4] Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition  [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
@@ -72,7 +72,7 @@ Intelligent Transportation System
 
 <div align="left">
           <a>
-            <img border="0" src="./XJT1.png" align="left" width="240" height="120">
+            <img border="0" src="./XJT1.png" align="left" width="240" height="140">
           </a> 
 </div>
 [5] A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching  [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)     
@@ -81,7 +81,7 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 
 <div align="left">
           <a>
-            <img border="0" src="./XJT2.png" align="left" width="240" height="120">
+            <img border="0" src="./XJT2.png" align="left" width="240" height="140">
           </a> 
 </div>
 [6] Road Scene Segmentation Using Hierarchical Graph-based Inference  [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)     
@@ -89,6 +89,11 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
 
 ## Conference papers 
+<div align="left">
+          <a>
+            <img border="0" src="./CCBR.png" align="left" width="240" height="140">
+          </a> 
+</div>
 [1] Combining Multiple Features for Cross-Domain Face Sketch Recognition  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.  
