@@ -32,7 +32,7 @@ From my own perspective, **mathematics** is the key technique for computer visio
 Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 Yang Liu    
 PhD thesis submitted to CNKI (China National Knowledge Infrastructure), June 30, 2019.    
-Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Guizhong Liu, Chun Qi.  
+Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
 
 ## Journal papers  
 <div align="left">
