@@ -40,60 +40,56 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
             <img border="0" src="./TIP.png" align="left" width="230" height="110">
           </a> 
 </div>
-Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition    
+Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing**, under revision.   
-[[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)          
+**IEEE Transactions on Image Processing**, under revision.    
 
 <div align="left">
           <a>
             <img border="0" src="./TCSVT.png" align="left" width="230" height="110">
           </a> 
 </div>
-Hierarchically Learned View-Invariant Representations for Cross View Action Recognition  
+Hierarchically Learned View-Invariant Representations for Cross View Action Recognition [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, 2019.   
-[[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)     
+  
 
 <div align="left">
           <a>
             <img border="0" src="./SPL.png" align="left" width="230" height="110">
           </a> 
 </div>
-Global Temporal Representation based CNNs for Infrared Action Recognition    
+Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 **IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.   
-[[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)      
 
 <div align="left">
           <a>
             <img border="0" src="./Complexity.png" align="left" width="230" height="110">
           </a> 
 </div>
-Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition    
+Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)       
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
-[[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)     
 
 <div align="left">
           <a>
             <img border="0" src="./XJT1.png" align="left" width="230" height="100">
           </a> 
 </div>
-A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching    
+A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)        
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University**, vol. 52, no. 8, pp. 74-79, 2018.  
- [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)     
-
+ 
 <div align="left">
           <a>
             <img border="0" src="./XJT2.png" align="left" width="230" height="110">
           </a> 
 </div>
-Road Scene Segmentation Using Hierarchical Graph-based Inference   
+Road Scene Segmentation Using Hierarchical Graph-based Inference [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)   
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
-[[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)     
+
  
 ## Conference papers 
 <div align="left">
@@ -101,10 +97,9 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
             <img border="0" src="./CCBR.png" align="left" width="230" height="110">
           </a> 
 </div>
-Combining Multiple Features for Cross-Domain Face Sketch Recognition    
+Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
-[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)   
 
 ## Patents (in Chinese) 
 [1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
