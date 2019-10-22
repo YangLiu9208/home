@@ -28,7 +28,7 @@ Intelligent Transportation System
 ## PhD thesis  
 Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 Yang Liu    
-**PhD thesis submitted to China National Knowledge Infrastructure (CNKI)**, June 30, 2019.    
+**PhD thesis, China National Knowledge Infrastructure (CNKI)**, June 30, 2019.    
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
 
 ## Journal papers  
