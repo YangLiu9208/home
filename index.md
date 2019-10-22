@@ -29,7 +29,10 @@ Intelligent Transportation System
 From my own perspective, **mathematics** is the key technique for computer vision, machine learning and data science. Therefore, I will never stop learning **mathematics**. Only with solid mathematical background can we do **serious research** and make **significant contributions**.   
 
 ## PhD thesis  
-Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))
+Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
+Yang Liu    
+PhD thesis submitted to CNKI(China National Knowledge Infrastructure), June 30, 2019.    
+
 
 ## Journal papers  
 <div align="left">
