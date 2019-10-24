@@ -69,21 +69,22 @@ Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human 
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
 
+<!--
 <div align="left">
           <a>
             <img border="0" src="./XJT1.png" align="left" width="230" height="100">
           </a> 
-</div>
+</div>-->
 A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)        
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University**, vol. 52, no. 8, pp. 74-79, 2018.  
  
-<div align="left">
+<!--<div align="left">
           <a>
             <img border="0" src="./XJT2.png" align="left" width="230" height="110">
           </a> 
-</div>
-Road Scene Segmentation Using Hierarchical Graph-based Inference [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)   
+</div>-->
+Road Scene Segmentation Using Hierarchical Graph-based Inference [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)  
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
 
