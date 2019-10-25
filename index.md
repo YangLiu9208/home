@@ -25,13 +25,12 @@ Deep Learning, Transfer Learning, Domain Adaptation
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
 Communication Systems Design in Intelligent Transportation    
 
-## PhD thesis  
+## Publications 
 Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 Yang Liu    
 **PhD thesis, China National Knowledge Infrastructure (CNKI)**, June 30, 2019.    
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
 
-## Journal papers  
 <div align="left">
           <a>
             <img border="0" src="./TIP.png" align="left" width="230" height="110">
@@ -71,6 +70,15 @@ Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human 
 
 <div align="left">
           <a>
+            <img border="0" src="./CCBR.png" align="left" width="230" height="110">
+          </a> 
+</div>
+Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
+**Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
+**Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
+
+<div align="left">
+          <a>
             <img border="0" src="./XJT1.png" align="left" width="230" height="100">
           </a> 
 </div>
@@ -86,17 +94,6 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 Road Scene Segmentation Using Hierarchical Graph-based Inference [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)   
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
-
- 
-## Conference papers 
-<div align="left">
-          <a>
-            <img border="0" src="./CCBR.png" align="left" width="230" height="110">
-          </a> 
-</div>
-Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
-**Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
-**Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
 
 ## Patents (in Chinese) 
 [1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
