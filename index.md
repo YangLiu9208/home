@@ -103,11 +103,11 @@ Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](http
 [2] 卢朝阳，许琼，李静，邓顺，**刘阳**. " 车辆监控系统的统计报表生成方法". 国家发明专利CN106682232A  
 
 ## Academic services 
-Reviewer for   
+**Reviewer for**   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology  
-International Conference on Computer Science and Application Engineering
-Control and Decision  
+International Conference on Computer Science and Application Engineering   
+Control and Decision   
 
 ## Selected honors & awards  
 2018 National Scholarship for PhD Students  
