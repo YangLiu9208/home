@@ -23,7 +23,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 Interpretable Human Action Understanding, Heterogenous Action Recognition  
 Deep Learning, Transfer Learning, Domain Adaptation  
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
-Intelligent Transportation System  
+Communication Systems Design in Intelligent Transportation    
 
 ## PhD thesis  
 Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
