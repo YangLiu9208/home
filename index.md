@@ -28,7 +28,7 @@ Communication Systems Design in Intelligent Transportation
 ## Publications 
 <div align="left">
           <a>
-            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="110">
+            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="120">
           </a> 
 </div>
 Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
