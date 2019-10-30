@@ -21,7 +21,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## Research interests
 Interpretable Human Action Understanding, Heterogenous Action Recognition  
-Deep Learning, Transfer Learning, Domain Adaptation  
+Deep Learning, Transfer Learning, Domain Adaptation, Attention modeling  
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
 Communication Systems Design in Intelligent Transportation    
 
