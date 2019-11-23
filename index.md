@@ -7,6 +7,7 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PHD degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News
+11/2019:&nbsp;   One journal paper is published in IEEE TIP (JCR Rank 1, IF:6.790).   
 08/2019:&nbsp;   One journal paper is published in IEEE TCSVT (JCR Rank 1, IF:4.046).   
 08/2019:&nbsp;   I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 07/2019:&nbsp;   I obtain my Ph.D degree from Xidian University.   
@@ -44,7 +45,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing**, under revision.    
+**IEEE Transactions on Image Processing**, accepted.    
 
 <div align="left">
           <a>
