@@ -7,18 +7,18 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PHD degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News
-11/2019:&nbsp;   One journal paper is accepted by IEEE TIP (JCR Rank 1, IF:6.790).   
-08/2019:&nbsp;   One journal paper is published in IEEE TCSVT (JCR Rank 1, IF:4.046).   
-08/2019:&nbsp;   I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
-07/2019:&nbsp;   I obtain my Ph.D degree from Xidian University.   
-11/2018:&nbsp;   I am invited to give a talk at The Second Session of Telecommunication Bridge.  
-10/2018:&nbsp;   I obtain the National Scholarship for PhD Students (30,000 RMB).    
-07/2018:&nbsp;   I am invited to give a talk at a Postgraduate Symposium.   
-06/2018:&nbsp;   One journal paper is published in IEEE SPL (JCR Rank 2, IF:3.268).  
-02/2018:&nbsp;   One journal paper is published in Complexity (JCR Rank 1, IF:4.621).   
-01/2018:&nbsp;   One journal paper is published in Journal of Xi'an Jiaotong University.  
-08/2017:&nbsp;   One journal paper is published in Journal of Xi'an Jiaotong University.  
-09/2016:&nbsp;   One conference paper is accepted by CCBR.  
+One journal paper is accepted by IEEE Transactions on Image Processing (JCR Rank 1, IF:6.790).   
+One journal paper is published in IEEE Transactions on Circuits and Systems for Video Technology (JCR Rank 1, IF:4.046).   
+I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
+I obtain my Ph.D degree from Xidian University.   
+I am invited to give a talk at The Second Session of Telecommunication Bridge.  
+I obtain the National Scholarship for PhD Students (30,000 RMB).    
+I am invited to give a talk at a Postgraduate Symposium.   
+One paper is published in IEEE Signal Processing Letters (JCR Rank 2, IF:3.268).  
+One paper is published in Complexity (JCR Rank 1, IF:4.621).   
+One paper is published in Journal of Xi'an Jiaotong University.  
+One paper is published in Journal of Xi'an Jiaotong University.  
+One paper is accepted by Chinese Conference on Biometric Recognition.  
 
 ## Research interests
 Interpretable Human Action Understanding, Heterogenous Action Recognition  
