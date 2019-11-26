@@ -50,7 +50,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="250" height="150">
+            <img border="0" src="./TCSVT.png" align="left" width="230" height="150">
           </a> 
 </div>
 ***Hierarchically Learned View-Invariant Representations for Cross View Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8453034)[[codes]](https://yangliu9208.github.io/JSRDA/)     
@@ -70,7 +70,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="250" height="170">
+            <img border="0" src="./Complexity.png" align="left" width="240" height="170">
           </a> 
 </div>
 ***Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition*** [[pdf]](http://downloads.hindawi.com/journals/complexity/2018/5345241.pdf)[[codes]](https://yangliu9208.github.io/CDFAG/)       
