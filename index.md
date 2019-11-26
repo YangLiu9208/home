@@ -61,7 +61,7 @@ Hierarchically Learned View-Invariant Representations for Cross View Action Reco
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="230" height="160">
+            <img border="0" src="./SPL.png" align="left" width="230" height="170">
           </a> 
 </div>
 Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
@@ -70,7 +70,7 @@ Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="230" height="160">
+            <img border="0" src="./Complexity.png" align="left" width="230" height="170">
           </a> 
 </div>
 Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)       
@@ -80,7 +80,7 @@ Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human 
 
 <div align="left">
           <a>
-            <img border="0" src="./CCBR.png" align="left" width="230" height="150">
+            <img border="0" src="./CCBR.png" align="left" width="230" height="170">
           </a> 
 </div>
 Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
