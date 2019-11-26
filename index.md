@@ -37,13 +37,14 @@ Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((http
 **Yang Liu**    
 **PhD thesis, China National Knowledge Infrastructure (CNKI)**, June 30, 2019.    
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
+(My PhD thesis, which comprehensively studies the cross-domain action recognition problem.)  
 
 <div align="left">
           <a>
             <img border="0" src="./TIP.png" align="left" width="230" height="110">
           </a> 
 </div>
-Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://yangliu9208.github.io/DIVAFN/)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
+Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, accepted.    
 
