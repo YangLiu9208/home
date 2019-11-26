@@ -40,7 +40,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="230" height="110">
+            <img border="0" src="./TIP.png" align="left" width="230" height="120">
           </a> 
 </div>
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
