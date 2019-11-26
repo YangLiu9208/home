@@ -33,7 +33,7 @@ Communication Systems Design in Intelligent Transportation
             <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
           </a> 
 </div>
-Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
+***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 **Yang Liu**    
 **PhD thesis, Xidian University**, June 30, 2019.    
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.    
@@ -43,7 +43,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
             <img border="0" src="./TIP.png" align="left" width="230" height="150">
           </a> 
 </div>
-Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
+***Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition*** [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, accepted.   
 (*A Novel Cross-media Adaptation Framework that utilize image features to improve the performance of video action recognition.*)  
@@ -53,7 +53,7 @@ Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]
             <img border="0" src="./TCSVT.png" align="left" width="230" height="150">
           </a> 
 </div>
-Hierarchically Learned View-Invariant Representations for Cross View Action Recognition [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)     
+***Hierarchically Learned View-Invariant Representations for Cross View Action Recognition*** [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
 **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, 2019.  
 (*A Novel Cross-view Action Recognition Framework for learning view-invariant representations.*)  
@@ -64,7 +64,7 @@ Hierarchically Learned View-Invariant Representations for Cross View Action Reco
             <img border="0" src="./SPL.png" align="left" width="230" height="170">
           </a> 
 </div>
-Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
+***Global Temporal Representation based CNNs for Infrared Action Recognition*** [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
 **IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.  
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
@@ -73,7 +73,7 @@ Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]
             <img border="0" src="./Complexity.png" align="left" width="230" height="170">
           </a> 
 </div>
-Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)       
+***Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition*** [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)       
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
 **Complexity**, vol. 2018, Article ID 5345241, 2018.    
 (*The first work that uilize visible light videos as an aid to improve the infrared action recognition performance. And a visible light action dataset XD145 is built.*)   
@@ -83,7 +83,7 @@ Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human 
             <img border="0" src="./CCBR.png" align="left" width="230" height="170">
           </a> 
 </div>
-Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
+***Combining Multiple Features for Cross-Domain Face Sketch Recognition***[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
 (*My first academic paper, which uses simple multi-feature fusion method to address cross-domain face sketch recognition problem.*)  
