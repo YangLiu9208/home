@@ -7,7 +7,6 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my PHD degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News
-<font face="黑体">One paper is accepted by IEEE Transactions on Image Processing</font>  
 One paper is accepted by IEEE Transactions on Image Processing.   
 I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 I obtain my Ph.D degree from Xidian University.   
@@ -47,11 +46,11 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, accepted.   
-(A Novel Cross-media Adaptation Framework that utilize image features to improve the performance of video action recognition.)  
+(/*A Novel Cross-media Adaptation Framework that utilize image features to improve the performance of video action recognition.*/)  
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="230" height="110">
+            <img border="0" src="./TCSVT.png" align="left" width="230" height="150">
           </a> 
 </div>
 Hierarchically Learned View-Invariant Representations for Cross View Action Recognition [[pdf]](https://arxiv.org/abs/1809.00421)[[codes]](https://yangliu9208.github.io/JSRDA/)     
@@ -61,7 +60,7 @@ Hierarchically Learned View-Invariant Representations for Cross View Action Reco
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="230" height="110">
+            <img border="0" src="./SPL.png" align="left" width="230" height="150">
           </a> 
 </div>
 Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]](https://arxiv.org/abs/1909.08287)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
@@ -70,7 +69,7 @@ Global Temporal Representation based CNNs for Infrared Action Recognition [[pdf]
 
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="230" height="110">
+            <img border="0" src="./Complexity.png" align="left" width="230" height="150">
           </a> 
 </div>
 Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)       
@@ -79,7 +78,7 @@ Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human 
 
 <div align="left">
           <a>
-            <img border="0" src="./CCBR.png" align="left" width="230" height="110">
+            <img border="0" src="./CCBR.png" align="left" width="230" height="150">
           </a> 
 </div>
 Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
