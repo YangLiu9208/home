@@ -30,7 +30,7 @@ Communication Systems Design in Intelligent Transportation
 ## Selected Publications 
 <div align="left">
           <a>
-            <img border="0" src="./PHD_thesis.png" align="left" width="250" height="160">
+            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
           </a> 
 </div>
 ***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
@@ -40,7 +40,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="250" height="170">
+            <img border="0" src="./TIP.png" align="left" width="230" height="170">
           </a> 
 </div>
 ***Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition*** [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
