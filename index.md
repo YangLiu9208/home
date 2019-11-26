@@ -27,7 +27,7 @@ Deep Learning, Transfer Learning, Domain Adaptation, Attention modeling
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
 Communication Systems Design in Intelligent Transportation    
 
-## Publications 
+## Selected Publications 
 <div align="left">
           <a>
             <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
@@ -40,7 +40,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="230" height="130">
+            <img border="0" src="./TIP.png" align="left" width="230" height="140">
           </a> 
 </div>
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
@@ -85,20 +85,12 @@ Combining Multiple Features for Cross-Domain Face Sketch Recognition[[pdf]](http
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
 
-<div align="left">
-          <a>
-            <img border="0" src="./XJT1.png" align="left" width="230" height="100">
-          </a> 
-</div>
+## Other Publications   
+
 A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching [[pdf]](http://zkxb.xjtu.edu.cn//oa/darticle.aspx?type=view&id=201808012)        
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University**, vol. 52, no. 8, pp. 74-79, 2018.  
  
-<div align="left">
-          <a>
-            <img border="0" src="./XJT2.png" align="left" width="230" height="110">
-          </a> 
-</div>
 Road Scene Segmentation Using Hierarchical Graph-based Inference [[pdf]](http://zkxb.xjtu.edu.cn/oa/DArticle.aspx?type=view&id=201712010)   
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
