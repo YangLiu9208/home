@@ -75,7 +75,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition*** [[pdf]](https://arxiv.org/abs/1909.08297)[[codes]](https://yangliu9208.github.io/CDFAG/)       
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
-**Complexity**, vol. 2018, Article ID 5345241, 2018.    
+**Complexity**, 2018.(JCR rank1, IF:4.621)      
 (*The first work that uilize visible light videos as an aid to improve the infrared action recognition performance. And a visible light action dataset XD145 is built.*)   
 
 <div align="left">
