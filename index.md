@@ -30,7 +30,7 @@ Communication Systems Design in Intelligent Transportation
 ## Selected Publications 
 <div align="left">
           <a>
-            <img border="0" src="./PHD_thesis.png" align="left" width="240" height="160">
+            <img border="0" src="./PHD_thesis.png" align="left" width="250" height="160">
           </a> 
 </div>
 ***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
@@ -40,7 +40,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./TIP.png" align="left" width="240" height="170">
+            <img border="0" src="./TIP.png" align="left" width="250" height="170">
           </a> 
 </div>
 ***Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition*** [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
@@ -50,7 +50,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./TCSVT.png" align="left" width="240" height="150">
+            <img border="0" src="./TCSVT.png" align="left" width="250" height="150">
           </a> 
 </div>
 ***Hierarchically Learned View-Invariant Representations for Cross View Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8453034)[[codes]](https://yangliu9208.github.io/JSRDA/)     
@@ -61,7 +61,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="240" height="170">
+            <img border="0" src="./SPL.png" align="left" width="250" height="170">
           </a> 
 </div>
 ***Global Temporal Representation based CNNs for Infrared Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8332532)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
@@ -70,7 +70,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="240" height="170">
+            <img border="0" src="./Complexity.png" align="left" width="250" height="170">
           </a> 
 </div>
 ***Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition*** [[pdf]](http://downloads.hindawi.com/journals/complexity/2018/5345241.pdf)[[codes]](https://yangliu9208.github.io/CDFAG/)       
@@ -80,7 +80,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./CCBR.png" align="left" width="240" height="170">
+            <img border="0" src="./CCBR.png" align="left" width="250" height="170">
           </a> 
 </div>
 ***Combining Multiple Features for Cross-Domain Face Sketch Recognition***[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
