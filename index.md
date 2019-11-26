@@ -61,7 +61,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./SPL.png" align="left" width="250" height="170">
+            <img border="0" src="./SPL.png" align="left" width="230" height="170">
           </a> 
 </div>
 ***Global Temporal Representation based CNNs for Infrared Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8332532)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
@@ -70,7 +70,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
 <div align="left">
           <a>
-            <img border="0" src="./Complexity.png" align="left" width="240" height="170">
+            <img border="0" src="./Complexity.png" align="left" width="230" height="170">
           </a> 
 </div>
 ***Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition*** [[pdf]](http://downloads.hindawi.com/journals/complexity/2018/5345241.pdf)[[codes]](https://yangliu9208.github.io/CDFAG/)       
@@ -80,7 +80,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./CCBR.png" align="left" width="250" height="170">
+            <img border="0" src="./CCBR.png" align="left" width="230" height="170">
           </a> 
 </div>
 ***Combining Multiple Features for Cross-Domain Face Sketch Recognition***[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
