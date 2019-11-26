@@ -45,7 +45,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition*** [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing**, accepted.    
+**IEEE Transactions on Image Processing**, accepted. (**JCR rank1, IF:6.790**)    
 (*A Novel Cross-media Adaptation Framework that utilize image features to improve the performance of video action recognition.*)  
 
 <div align="left">
@@ -55,7 +55,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Hierarchically Learned View-Invariant Representations for Cross View Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8453034)[[codes]](https://yangliu9208.github.io/JSRDA/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
-**IEEE Transactions on Circuits and Systems for Video Technology**, vol. 29, no. 8, pp. 2416-2430, 2019.  
+**IEEE Transactions on Circuits and Systems for Video Technology**, 2019. (**JCR rank1, IF:4.046**)   
 (*A Novel Cross-view Action Recognition Framework for learning view-invariant representations.*)  
   
 
@@ -66,7 +66,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Global Temporal Representation based CNNs for Infrared Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8332532)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
-**IEEE Signal Processing Letters**, vol. 25, no. 6, pp. 848-852, 2018.  
+**IEEE Signal Processing Letters**, 2018.  (**JCR rank2, IF:3.268**)   
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
 <div align="left">
           <a>
@@ -85,18 +85,18 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Combining Multiple Features for Cross-Domain Face Sketch Recognition***[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-46654-5_16)        
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
-**Chinese Conference on Biometric Recognition (CCBR)**, 2016: 139-146.   
+**Chinese Conference on Biometric Recognition (CCBR)**, 2016.   
 (*My first academic paper, which uses simple multi-feature fusion method to address cross-domain face sketch recognition problem.*)  
 
 ## Other Publications   
 
 A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching  
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
-**Journal of Xi'an Jiaotong University**, vol. 52, no. 8, pp. 74-79, 2018.  
+**Journal of Xi'an Jiaotong University**, 2018.  
  
 Road Scene Segmentation Using Hierarchical Graph-based Inference  
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
-**Journal of Xi'an Jiaotong University**, vol. 51, no. 12, pp. 62-67, 2017.  
+**Journal of Xi'an Jiaotong University**, 2017.  
 
 ## Patents (in Chinese) 
 [1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
