@@ -30,14 +30,13 @@ Communication Systems Design in Intelligent Transportation
 ## Publications 
 <div align="left">
           <a>
-            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="180">
+            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
           </a> 
 </div>
 Cross-domain Human Action Recognition via Transfer Learning, 2019. [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 **Yang Liu**    
 **PhD thesis, China National Knowledge Infrastructure (CNKI)**, June 30, 2019.    
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.    
-(My PhD thesis, which comprehensively studies the cross-domain action recognition problem.)   
 
 <div align="left">
           <a>
