@@ -46,7 +46,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition [[pdf]](https://arxiv.org/pdf/1911.10751.pdf)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
 **IEEE Transactions on Image Processing**, accepted.   
-(A Novel Cross-media Adaptation Framework that uilize image features to improve the performance of video action recognition.)  
+(A Novel Cross-media Adaptation Framework that utilize image features to improve the performance of video action recognition.)  
 
 <div align="left">
           <a>
