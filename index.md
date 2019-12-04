@@ -24,12 +24,12 @@ One paper is accepted by Journal of Xi'an Jiaotong University.
 One paper is accepted by Journal of Xi'an Jiaotong University.  
 One paper is accepted by Chinese Conference on Biometric Recognition.  
 
-## Research interests
-Interpretable Human Action Understanding, Heterogenous Action Recognition  
-Multi-modal Feature learning, Cross-domain Representation Learning  
-Deep Learning, Transfer Learning, Domain Adaptation, Attention modeling  
-Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks  
-Communication Systems Design in Intelligent Transportation    
+## Research interests   
+Video Analysis and Understanding, Human Action Recognition        
+Multi-modal/Cross-domain Representation Learning,Transfer Learning   
+Deep Learning, Attention modeling, Knowledge Distillation    
+Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks   
+Communication Systems Design in Intelligent Transportation     
 
 ## Selected Publications 
 <div align="left">
