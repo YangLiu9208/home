@@ -8,8 +8,8 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## News  
 **I received the Fundamental Research Funds for the Central Universities**.   
-**Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/)**.    
-**One paper is accepted by IEEE Transactions on Image Processing**.   
+Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/).    
+One paper is accepted by IEEE Transactions on Image Processing.   
 I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 I obtain my Ph.D degree from Xidian University.   
 I am invited to give a talk at The Second Session of Telecommunication Bridge.  
