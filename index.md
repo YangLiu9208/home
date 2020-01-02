@@ -7,7 +7,8 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my Ph.D degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News  
-**Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/)**.   
+**I received the Fundamental Research Funds for the Central Universities**.   
+**Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/)**.    
 **One paper is accepted by IEEE Transactions on Image Processing**.   
 I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 I obtain my Ph.D degree from Xidian University.   
