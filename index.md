@@ -7,7 +7,8 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my Ph.D degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News  
-**I received the Fundamental Research Funds for the Central Universities**.   
+**My Ph.D Thesis is published online in CNKI**.     
+I received the Fundamental Research Funds for the Central Universities.   
 Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/).    
 One paper is accepted by IEEE Transactions on Image Processing.   
 I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
@@ -38,7 +39,7 @@ Communication Systems Design in Intelligent Transportation
             <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
           </a> 
 </div>
-***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]]((https://yangliu9208.github.io/home/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
+***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]]((https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDTEMP&filename=1020000550.nh&uid=WEEvREcwSlJHSldRa1FhcTdnTnhXM28rNjhRTy84Wi9tUGVlMWJEcGVacz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDg3NTJGeXZnVjd6QlZGMjVIck80SHRUSnI1RWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZlp1ZHU=))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 **Yang Liu**    
 **PhD thesis, Xidian University, June 30, 2019.**   
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
