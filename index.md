@@ -39,7 +39,7 @@ Communication Systems Design in Intelligent Transportation
             <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
           </a> 
 </div>
-***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]]((https://www.cnki.net/))[[Defense Talk]]((https://yangliu9208.github.io/home/))    
+***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]](https://www.cnki.net/)[[Defense Talk]]((https://yangliu9208.github.io/home/))    
 **Yang Liu**    
 **PhD thesis, Xidian University, June 30, 2019.**   
 Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
