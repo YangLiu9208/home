@@ -15,7 +15,7 @@ One paper is accepted by IEEE Transactions on Image Processing.
 I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 I obtain my Ph.D degree from Xidian University.   
 I am invited to give a talk at The Second Session of Telecommunication Bridge.  
-I obtain the National Scholarship for PhD Students (30,000 RMB).    
+I obtain the National Scholarship for PhD Students (RMB 30,000).    
 I am invited to give a talk at a Postgraduate Symposium.   
 Codes for IEEE TCSVT is [available](https://yangliu9208.github.io/JSRDA/).  
 One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.   
