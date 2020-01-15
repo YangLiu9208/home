@@ -7,25 +7,25 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my Ph.D degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News  
-01/2020: **My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now!**       
-01/2020: My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
-12/2019: I received the Fundamental Research Funds for the Central Universities (RMB 120,000).     
-10/2016: Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/).    
-10/2019: One paper is accepted by IEEE Transactions on Image Processing.   
-08/2019: I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
-06/2019: I obtain my Ph.D degree from Xidian University.   
-11/2018: I am invited to give a talk at The Second Session of Telecommunication Bridge.  
-10/2018: I obtain the National Scholarship for PhD Students (RMB 30,000).    
-09/2016: I am invited to give a talk at a Postgraduate Symposium.   
-08/2018: Codes for IEEE TCSVT is [available](https://yangliu9208.github.io/JSRDA/).  
-08/2018: One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.   
-04/2018: Codes for IEEE SPL is [available](https://yangliu9208.github.io/TSTDDs/).  
-04/2018: One paper is accepted by IEEE Signal Processing Letters.  
-02/2018: Codes and datasets for Complexity is [available](https://yangliu9208.github.io/CDFAG/).  
-02/2018: One paper is accepted by Complexity.   
-08/2018: One paper is accepted by Journal of Xi'an Jiaotong University.  
-12/2017: One paper is accepted by Journal of Xi'an Jiaotong University.  
-09/2016: One paper is accepted by Chinese Conference on Biometric Recognition.  
+2020-01:&nbsp; **My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now!**       
+2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
+2019-12:&nbsp; I received the Fundamental Research Funds for the Central Universities (RMB 120,000).     
+2019-10:&nbsp; Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/).    
+2019-10:&nbsp; One paper is accepted by IEEE Transactions on Image Processing.   
+2019-08:&nbsp; I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
+2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
+2018-11:&nbsp; I am invited to give a talk at The Second Session of Telecommunication Bridge.  
+2018-10:&nbsp; I obtain the National Scholarship for PhD Students (RMB 30,000).    
+2018-09:&nbsp; I am invited to give a talk at a Postgraduate Symposium.   
+2018-08:&nbsp; Codes for IEEE TCSVT is [available](https://yangliu9208.github.io/JSRDA/).  
+2018-08:&nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.   
+2018-08:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
+2018-04:&nbsp; Codes for IEEE SPL is [available](https://yangliu9208.github.io/TSTDDs/).  
+2018-04:&nbsp; One paper is accepted by IEEE Signal Processing Letters.  
+2018-02:&nbsp; Codes and datasets for Complexity is [available](https://yangliu9208.github.io/CDFAG/).  
+2018-02:&nbsp; One paper is accepted by Complexity.   
+2017-12:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
+2016-09:&nbsp; One paper is accepted by Chinese Conference on Biometric Recognition.  
 
 ## Research interests   
 Video Analysis and Understanding, Human Action Recognition        
