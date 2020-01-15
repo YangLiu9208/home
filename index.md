@@ -9,7 +9,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 ## News  
 2020-01:&nbsp; **My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now!**       
 2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
-2019-12:&nbsp; I received the Fundamental Research Funds for the Central Universities (RMB 120,000).     
+2019-12:&nbsp; I received the Fundamental Research Funds for the Central Universities.     
 2019-10:&nbsp; Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/).    
 2019-10:&nbsp; One paper is accepted by IEEE Transactions on Image Processing.   
 2019-08:&nbsp; I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
@@ -18,7 +18,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 2018-10:&nbsp; I obtain the National Scholarship for PhD Students (RMB 30,000).    
 2018-09:&nbsp; I am invited to give a talk at a Postgraduate Symposium.   
 2018-08:&nbsp; Codes for IEEE TCSVT is [available](https://yangliu9208.github.io/JSRDA/).  
-2018-08:&nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.   
+2018-08:&nbsp; One paper is accepted by IEEE TCSVT.   
 2018-08:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
 2018-04:&nbsp; Codes for IEEE SPL is [available](https://yangliu9208.github.io/TSTDDs/).  
 2018-04:&nbsp; One paper is accepted by IEEE Signal Processing Letters.  
