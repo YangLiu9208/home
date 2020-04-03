@@ -112,7 +112,8 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 ## Academic services 
 **Reviewer for**   
 IEEE Transactions on Cybernetics  
-IEEE Transactions on Circuits and Systems for Video Technology  
+IEEE Transactions on Circuits and Systems for Video Technology 
+IEEE Signal Processing Letters
 International Conference on Computer Science and Application Engineering   
 Control and Decision   
 
