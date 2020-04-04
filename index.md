@@ -7,6 +7,8 @@ layout: default
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my Ph.D degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
 ## News  
+2020-04:&nbsp; I obtain an invitation to review for IEEE Access.   
+2020-04:&nbsp; I obtain an invitation to review for IEEE Signal Processing Letters.   
 2020-01:&nbsp; **My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now!**       
 2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
 2019-12:&nbsp; I received the Fundamental Research Funds for the Central Universities.     
@@ -113,8 +115,8 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 **Reviewer for**   
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Circuits and Systems for Video Technology   
-IEEE Signal Processing Letters 
-IEEE Access  
+IEEE Signal Processing Letters  
+IEEE Access   
 
 ## Selected honors & awards  
 2018 National Scholarship for PhD Students  
