@@ -9,9 +9,9 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 ## News  
 2020-04:&nbsp; I obtain an invitation to review for IEEE Access.   
 2020-04:&nbsp; I obtain an invitation to review for IEEE Signal Processing Letters.   
-2020-01:&nbsp; **My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now!**       
+2020-03:&nbsp; I received the Fundamental Research Funds for the Central Universities.   
+2020-01:&nbsp; My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now.     
 2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
-2019-12:&nbsp; I received the Fundamental Research Funds for the Central Universities.     
 2019-10:&nbsp; Codes and datasets for IEEE TIP is [available](https://yangliu9208.github.io/DIVAFN/).    
 2019-10:&nbsp; One paper is accepted by IEEE Transactions on Image Processing.   
 2019-08:&nbsp; I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
