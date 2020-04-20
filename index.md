@@ -36,7 +36,7 @@ Deep Learning, Attention modeling, Knowledge Distillation
 Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks   
 Communication Systems Design in Intelligent Transportation     
 
-## Selected Publications 
+## Publications 
 
 ***Adaptively Knowledge Distillation for Cross Modal Human Action Understanding***     
 **Yang Liu**, Liang Lin.      
