@@ -37,6 +37,11 @@ Cognitive Reasoning, Knowledge Graph Embedding, Graph Neural Networks
 Communication Systems Design in Intelligent Transportation     
 
 ## Selected Publications 
+
+Adaptively knowledge distillation for Cross Modal Human Action Understanding   
+**Yang Liu**....   
+2020 Preprint
+
 <div align="left">
           <a>
             <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
