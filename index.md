@@ -102,13 +102,11 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 **Chinese Conference on Biometric Recognition (CCBR), 2016.**   
 (*My first academic paper, which uses simple multi-feature fusion method to address cross-domain face sketch recognition problem.*)  
 
-## Other Publications   
-
-A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching  
+***A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching***  
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University, 2018.**  
  
-Road Scene Segmentation Using Hierarchical Graph-based Inference  
+***Road Scene Segmentation Using Hierarchical Graph-based Inference***  
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University, 2017.**  
 
