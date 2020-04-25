@@ -39,9 +39,9 @@ Communication Systems Design in Intelligent Transportation
 
 ## Publications 
 
-***Adaptively Knowledge Distillation for Cross Modal Human Action Understanding***     
+***Adaptively Knowledge Distillation for Cross Modal Human Action Understanding*** [[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
 **Yang Liu**, Liang Lin.      
-2020 Preprint   
+Preprint   
 
 <div align="left">
           <a>
