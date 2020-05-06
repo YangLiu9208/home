@@ -47,7 +47,7 @@ Communication Systems Design in Intelligent Transportation
 </div>
 ***Adaptive Knowledge Distillation for Cross-modal Human Action Understanding*** [[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
 **Yang Liu**, Liang Lin.      
-Preprint    
+Preprint.    
 
 <div align="left">
           <a>
@@ -128,6 +128,7 @@ IEEE Transactions on Cybernetics
 IEEE Transactions on Circuits and Systems for Video Technology   
 IEEE Signal Processing Letters  
 IEEE Access   
+Pattern Recognition     
 
 ## Selected honors & awards  
 2018 National Scholarship for PhD Students  
