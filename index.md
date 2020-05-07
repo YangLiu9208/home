@@ -42,7 +42,7 @@ Communication Systems Design in Intelligent Transportation
 
 <div align="left">
           <a>
-            <img border="0" src="./AKDN.png" align="left" width="230" height="110">
+            <img border="0" src="./AKDN.png" align="left" width="230" height="100">
           </a> 
 </div>
 ***Adaptive Knowledge Distillation for Cross-modal Human Action Understanding*** [[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
