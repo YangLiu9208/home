@@ -111,7 +111,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 
 <div align="left">
           <a>
-            <img border="0" src="./xjt.png" align="left" width="230" height="120">
+            <img border="0" src="./xjt.png" align="left" width="230" height="110">
           </a> 
 </div>
 ***A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching***  
@@ -120,7 +120,7 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 
 <div align="left">
           <a>
-            <img border="0" src="./xjt.png" align="left" width="230" height="120">
+            <img border="0" src="./xjt.png" align="left" width="230" height="110">
           </a> 
 </div>
 ***Road Scene Segmentation Using Hierarchical Graph-based Inference***  
