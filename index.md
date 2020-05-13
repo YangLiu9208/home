@@ -117,6 +117,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 ***A Geometric Segmentation Method for Traffic Scenes Using Super-Pixel Label Matching***  
 Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.  
 **Journal of Xi'an Jiaotong University, 2018.**  
+(*My co-author paper for semantic segmentation in traffic scenes.*)   
 
 <div align="left">
           <a>
@@ -126,6 +127,7 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 ***Road Scene Segmentation Using Hierarchical Graph-based Inference***  
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University, 2017.**  
+(*My co-author paper for semantic segmentation in traffic scenes.*)   
 
 ## Patents (in Chinese) 
 [1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
