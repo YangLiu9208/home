@@ -45,7 +45,7 @@ Communication Systems Design in Intelligent Transportation
             <img border="0" src="./AKDN.png" align="left" width="230" height="100">
           </a> 
 </div>
-***Semantic-aware Adaptive Knowledge Distillation Networks for Cross-modal Human Action Recognition*** [[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
+***Semantic-aware Adaptive Knowledge Distillation Networks for Cross-modal Human Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
 **Yang Liu**, Liang Lin.      
 Preprint.    
 
