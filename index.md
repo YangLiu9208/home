@@ -46,7 +46,7 @@ Communication Systems Design in Intelligent Transportation
           </a> 
 </div>
 ***Semantic-aware Adaptive Knowledge Distillation for Cross-modal Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
-**Yang Liu**, Liang Lin.      
+**Yang Liu**, Liang Lin, XXX.      
 To be submitted to IEEE Transactions on XXX.    
 
 <div align="left">
