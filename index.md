@@ -6,6 +6,12 @@ layout: default
 ## Biography
 I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.net/home/), School of Data and Computer Science, [Sun-Yat-Sen University](http://www.sysu.edu.cn/) with co-advisor Prof. [Liang Lin](http://www.linliang.net/). Before that, I obtained my Ph.D degree in 2019 at [School of Telecommunications](http://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) advised by Prof. [Zhaoyang Lu](http://web.xidian.edu.cn/zhylu/). During my Ph.D study, I worked closely with Prof. [Jing Li](https://web.xidian.edu.cn/jingli/), Prof. [Tao Yang](https://scholar.google.com/citations?hl=en&user=Lvn4nH8AAAAJ) and Dr. [Chao Yao](https://scholar.google.com/citations?user=n6w02qoAAAAJ&hl=en). Before that, I received my Bachelor Degree in telecommunications from the School of Information Engineering, [Chang’an University](http://www.chd.edu.cn/) in 2014. My current research interests include computer vision and machine learning.  
 
+## Research interests   
+Video Analysis and Understanding, Human Action Recognition        
+Multi-modal/Cross-domain Representation Learning,Transfer Learning   
+Deep Learning, Attention modeling, Knowledge Distillation    
+Communication Systems Design in Intelligent Transportation    
+
 ## News 
 2020-06:&nbsp; I obtain an invitation to review for IEEE Transactions on Circuits and Systems for Video Technology.  
 2020-05:&nbsp; I obtain an invitation to review for Pattern Recognition.      
@@ -31,12 +37,6 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 2018-02:&nbsp; One paper is accepted by Complexity.   
 2017-12:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
 2016-09:&nbsp; One paper is accepted by Chinese Conference on Biometric Recognition.  
-
-## Research interests   
-Video Analysis and Understanding, Human Action Recognition        
-Multi-modal/Cross-domain Representation Learning,Transfer Learning   
-Deep Learning, Attention modeling, Knowledge Distillation    
-Communication Systems Design in Intelligent Transportation     
 
 ## Publications 
 
