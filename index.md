@@ -8,7 +8,7 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## Research interests   
 Video Analysis and Understanding, Human Action Recognition        
-Multi-modal/Cross-domain Representation Learning,Transfer Learning   
+Multi-modal Representation Learning, Transfer Learning   
 Deep Learning, Attention modeling, Knowledge Distillation    
 Communication Systems Design in Intelligent Transportation    
 
