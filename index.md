@@ -68,7 +68,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8931264/)[[codes]](https://yangliu9208.github.io/DIVAFN/)             
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.    
-**IEEE Transactions on Image Processing, 2020. (JCR 1, IF:6.790)**   
+**IEEE Transactions on Image Processing, 2020. (CCFA, JCR 1, IF:9.340)**   
 (*A Novel Cross-modal Adaptation Framework that utilize image features to improve the performance of video action recognition.*)  
 
 <div align="left">
@@ -78,7 +78,7 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 </div>
 ***Hierarchically Learned View-Invariant Representations for Cross View Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8453034)[[codes]](https://yangliu9208.github.io/JSRDA/)     
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang.  
-**IEEE Transactions on Circuits and Systems for Video Technology, 2019. (JCR 1, IF:4.046)**  
+**IEEE Transactions on Circuits and Systems for Video Technology, 2019. (JCR 1, IF:4.133)**  
 (*A Novel Cross-view Action Recognition Framework for learning view-invariant representations.*)  
   
 
