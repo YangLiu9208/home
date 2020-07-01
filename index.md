@@ -40,6 +40,10 @@ Communication Systems Design in Intelligent Transportation
 2017-12:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
 2016-09:&nbsp; One paper is accepted by Chinese Conference on Biometric Recognition.  
 
+## Fundings   
+General Program of China Postdoctoral Science Foundation, project leader, 2020-2021         
+Fundamental Research Funds for the Central Universities, project leader, 2020-2022          
+
 ## Publications 
 
 <div align="left">
