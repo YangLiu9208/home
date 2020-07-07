@@ -41,7 +41,7 @@ Communication Systems Design in Intelligent Transportation
 2016-09:&nbsp; One paper is accepted by Chinese Conference on Biometric Recognition.  
 
 ## Fundings   
-1.&nbsp; General Program of China Postdoctoral Science Foundation (博士后基金面上项目), project leader, 2020-2021         
+1.&nbsp; General Program of China Postdoctoral Science Foundation (中国博士后科学基金面上项目), project leader, 2020-2021         
 2.&nbsp; Fundamental Research Funds for the Central Universities (中央高校基本科研业务费), project leader, 2020-2022          
 
 ## Publications 
