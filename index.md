@@ -51,7 +51,7 @@ Communication Systems Design in Intelligent Transportation
             <img border="0" src="./AKDN.png" align="left" width="230" height="100">
           </a> 
 </div>
-***Semantic-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
+***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
 **Yang Liu**, Liang Lin, XXX.      
 **To be submitted to IEEE Transactions on Image Processing**   
 
