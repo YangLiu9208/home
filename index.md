@@ -14,12 +14,6 @@ Communication Systems Design in Intelligent Transportation
 
 ## News 
 **2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation (Funding rate: 19.08%).**     
-2020-06:&nbsp; I obtain an invitation to review for IEEE Transactions on Neural Networks and Learning Systems.   
-2020-06:&nbsp; I obtain an invitation to review for IEEE Transactions on Circuits and Systems for Video Technology.  
-2020-05:&nbsp; I obtain an invitation to review for Pattern Recognition.      
-2020-04:&nbsp; I obtain an invitation to review for IEEE Transactions on Neural Networks and Learning Systems.    
-2020-04:&nbsp; I obtain an invitation to review for IEEE Access.   
-2020-04:&nbsp; I obtain an invitation to review for IEEE Signal Processing Letters.   
 2020-03:&nbsp; I received the Fundamental Research Funds for the Central Universities.   
 2020-01:&nbsp; My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now.     
 2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
@@ -51,9 +45,9 @@ Communication Systems Design in Intelligent Transportation
             <img border="0" src="./AKDN.png" align="left" width="230" height="100">
           </a> 
 </div>
-***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]](https://yangliu9208.github.io/home/)                    
+***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
 **Yang Liu**, Guanbin Li, Liang Lin.      
-**To be submitted to IEEE Transactions on Image Processing**   
+**Submitted to IEEE Transactions on Image Processing**   
 
 <div align="left">
           <a>
