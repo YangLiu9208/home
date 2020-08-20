@@ -30,7 +30,7 @@ Communication Systems Design in Intelligent Transportation
 
 <div align="left">
           <a>
-            <img border="0" src="./AKDN.png" align="left" width="230" height="100">
+            <img border="0" src="./AKDN.png" align="left" width="230" height="110">
           </a> 
 </div>
 ***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
