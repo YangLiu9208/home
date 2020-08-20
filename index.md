@@ -23,8 +23,8 @@ Communication Systems Design in Intelligent Transportation
 2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
 
 ## Fundings   
-1.&nbsp; General Program of China Postdoctoral Science Foundation (中国博士后科学基金面上项目), project leader, 2020-2021         
-2.&nbsp; Fundamental Research Funds for the Central Universities (中央高校基本科研业务费), project leader, 2020-2022          
+1.&nbsp; General Program of China Postdoctoral Science Foundation, project leader, 2020-2021         
+2.&nbsp; Fundamental Research Funds for the Central Universities, project leader, 2020-2022          
 
 ## Publications 
 
