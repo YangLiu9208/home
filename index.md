@@ -21,18 +21,6 @@ Communication Systems Design in Intelligent Transportation
 2019-10:&nbsp; One paper is accepted by IEEE Transactions on Image Processing.   
 2019-08:&nbsp; I start working as a postdoctoral fellow at Sun-Yat-Sen University.       
 2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
-2018-11:&nbsp; I am invited to give a talk at The Second Session of Telecommunication Bridge.  
-2018-10:&nbsp; I obtain the National Scholarship for PhD Students (RMB 30,000).    
-2018-09:&nbsp; I am invited to give a talk at a Postgraduate Symposium.   
-2018-08:&nbsp; Codes for IEEE TCSVT is [available](https://yangliu9208.github.io/JSRDA/).  
-2018-08:&nbsp; One paper is accepted by IEEE TCSVT.   
-2018-08:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
-2018-04:&nbsp; Codes for IEEE SPL is [available](https://yangliu9208.github.io/TSTDDs/).  
-2018-04:&nbsp; One paper is accepted by IEEE Signal Processing Letters.  
-2018-02:&nbsp; Codes and datasets for Complexity is [available](https://yangliu9208.github.io/CDFAG/).  
-2018-02:&nbsp; One paper is accepted by Complexity.   
-2017-12:&nbsp; One paper is accepted by Journal of Xi'an Jiaotong University.  
-2016-09:&nbsp; One paper is accepted by Chinese Conference on Biometric Recognition.  
 
 ## Fundings   
 1.&nbsp; General Program of China Postdoctoral Science Foundation (中国博士后科学基金面上项目), project leader, 2020-2021         
