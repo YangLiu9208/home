@@ -12,7 +12,8 @@ Multi-modal Representation Learning, Knowledge Distillation
 Deep Learning, Transfer Learning, Reinforcement Learning      
 
 ## News 
-**2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation (Funding rate: 19.08%).**     
+**2020-09:&nbsp; Paper *Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition* is [available](https://arxiv.org/abs/2009.00210).**    
+2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation (Funding rate: 19.08%).     
 2020-03:&nbsp; I received the Fundamental Research Funds for the Central Universities.   
 2020-01:&nbsp; My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now.     
 2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
@@ -32,7 +33,7 @@ Deep Learning, Transfer Learning, Reinforcement Learning
             <img border="0" src="./SAKDN.png" align="left" width="230" height="130">
           </a> 
 </div>
-***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://yangliu9208.github.io/home/)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
+***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://arxiv.org/abs/2009.00210)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
 **Yang Liu**, Guanbin Li, Liang Lin.      
 **IEEE Transactions on Image Processing**, under review.   
 (*An novel end-to-end adaptive knowledge distillation framework for sensor-to-vision heterogenous action recognition problem.*)   
