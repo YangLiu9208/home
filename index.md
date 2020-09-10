@@ -28,6 +28,10 @@ Deep Learning, Transfer Learning, Reinforcement Learning
 
 ## Publications 
 
+**Coarse-to-fine Contrastive Network for Self-supervised Video Representation Learning**                  
+**Yang Liu**, Liang Lin.      
+Preprint.   
+
 <div align="left">
           <a>
             <img border="0" src="./SAKDN.png" align="left" width="230" height="130">
