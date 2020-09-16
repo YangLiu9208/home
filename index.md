@@ -28,7 +28,7 @@ Deep Learning, Transfer Learning, Reinforcement Learning
 
 ## Publications 
 
-**Coarse-to-fine Contrastive Network for Self-supervised Video Representation Learning**                  
+**Graphically Contrastive Self-supervised Video Representation Learning**                  
 **Yang Liu**, Liang Lin.      
 Preprint.   
 
