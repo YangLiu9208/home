@@ -24,7 +24,7 @@ Deep Learning, Transfer Learning, Reinforcement Learning
 2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
 
 ## Fundings   
-1.&nbsp; National Natural Science Foundation of China, 2021-2024   
+1.&nbsp; National Natural Science Foundation of China, project leader, 2021-2024   
 2.&nbsp; General Program of China Postdoctoral Science Foundation, project leader, 2020-2021         
 3.&nbsp; Fundamental Research Funds for the Central Universities, project leader, 2020-2022          
 
