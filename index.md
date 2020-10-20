@@ -133,6 +133,7 @@ IEEE Transactions on Neural Networks and Learning Systems
 IEEE Transactions on Cybernetics  
 IEEE Transactions on Multimedia   
 IEEE Transactions on Circuits and Systems for Video Technology   
+IEEE Transactions on Human-Machine Systems    
 IEEE Signal Processing Letters  
 IEEE Access   
 Pattern Recognition     
