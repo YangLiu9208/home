@@ -31,7 +31,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 ## Publications 
 
 **Temporal Contrastive Graph for Self-supervised Video Representation Learning**                  
-**Yang Liu**, Liang Lin.      
+**Yang Liu**, Keze Wang, Haoyuan Lan, Liang Lin.      
 Preprint.   
 
 <div align="left">
