@@ -12,6 +12,7 @@ Multi-modal Representation Learning, Knowledge Distillation
 Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learning      
 
 ## News 
+**2020-11:&nbsp; I received the funds from National Natural Science Foundation of Guangdong Province of China!!!.**  
 **2020-09:&nbsp; I received the funds from National Natural Science Foundation of China!!!.**   
 2020-09:&nbsp; Paper *Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition* is [available](https://arxiv.org/abs/2009.00210).    
 2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation (Funding rate: 19.08%).     
@@ -24,9 +25,10 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
 
 ## Fundings   
-1.&nbsp; National Natural Science Foundation of China, project leader, 2021-2024   
-2.&nbsp; General Program of China Postdoctoral Science Foundation, project leader, 2020-2021         
-3.&nbsp; Fundamental Research Funds for the Central Universities, project leader, 2020-2022          
+1.&nbsp; National Natural Science Foundation of China, project leader, 2021-2024    
+2.&nbsp; National Natural Science Foundation of Guangdong Province of China, project leader, 2021-2024    
+3.&nbsp; General Program of China Postdoctoral Science Foundation, project leader, 2020-2022          
+4.&nbsp; Fundamental Research Funds for the Central Universities, project leader, 2020-2022          
 
 ## Publications 
 
