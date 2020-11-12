@@ -12,8 +12,8 @@ Multi-modal Representation Learning, Knowledge Distillation
 Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learning      
 
 ## News 
-**2020-11:&nbsp; I received the funds from National Natural Science Foundation of Guangdong Province of China!!!.**  
-**2020-09:&nbsp; I received the funds from National Natural Science Foundation of China!!!.**   
+**2020-11:&nbsp; I received the funds from National Natural Science Foundation of Guangdong Province of China!!!.**    
+2020-09:&nbsp; I received the funds from National Natural Science Foundation of China!!!.    
 2020-09:&nbsp; Paper *Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition* is [available](https://arxiv.org/abs/2009.00210).    
 2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation (Funding rate: 19.08%).     
 2020-03:&nbsp; I received the Fundamental Research Funds for the Central Universities.   
@@ -37,9 +37,9 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
             <img border="0" src="./TCG.png" align="left" width="230" height="150">
           </a> 
 </div>
-**Temporal Contrastive Graph for Self-supervised Video Representation Learning**                  
+***Temporal Contrastive Graph for Self-supervised Video Representation Learning***                 
 **Yang Liu**, Keze Wang, Haoyuan Lan, Liang Lin.      
-Preprint.    
+**Preprint**.    
 (*A hybrid graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
 
 <div align="left">
