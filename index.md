@@ -39,7 +39,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***Temporal Contrastive Graph for Self-supervised Video Representation Learning***                 
 **Yang Liu**, Keze Wang, Haoyuan Lan, Liang Lin.      
-**Preprint**.    
+**Technical Report, 2020.**        
 (*A hybrid graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
 
 <div align="left">
@@ -49,7 +49,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://arxiv.org/abs/2009.00210)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
 **Yang Liu**, Guanbin Li, Liang Lin.      
-**IEEE Transactions on Image Processing**, under review.   
+**Technical Report, 2020.**     
 (*An novel end-to-end adaptive knowledge distillation framework for sensor-to-vision heterogenous action recognition problem.*)   
 
 <div align="left">
