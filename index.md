@@ -35,7 +35,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 ***Hierarchically Temporal Contrastive Graphs for Self-supervised Video Understanding***          
 **Yang Liu**, Liang Lin.      
-**Technical Report, 2021.**    
+**To be submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.**    
 
 <div align="left">
           <a>
@@ -54,7 +54,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://arxiv.org/abs/2009.00210)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
 **Yang Liu**, Guanbin Li, Liang Lin.      
-**Technical Report, 2020.**     
+**IEEE Transactions on Image Processing (Under Review), 2020.**     
 (*An novel end-to-end adaptive knowledge distillation framework for sensor-to-vision heterogenous action recognition problem.*)   
 
 <div align="left">
