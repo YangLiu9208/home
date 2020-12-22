@@ -35,7 +35,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 ***Hierarchically Temporal Contrastive Graphs for Self-supervised Video Understanding***          
 **Yang Liu**, Liang Lin.      
-**To be submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.**    
+**Technical Report, 2021.**    
 
 <div align="left">
           <a>
