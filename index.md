@@ -33,6 +33,11 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 ## Publications 
 
+<div align="left">
+          <a>
+            <img border="0" src="./TCG.png" align="left" width="230" height="150">
+          </a> 
+</div>
 ***Multi-level Temporal Contrastive Graphs for Self-supervised Video Understanding***          
 **Yang Liu**, Liang Lin.      
 **Technical Report, 2021.**    
