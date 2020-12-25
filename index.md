@@ -38,7 +38,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
             <img border="0" src="./TCG.png" align="left" width="230" height="150">
           </a> 
 </div>
-***Multi-level Temporal Contrastive Graphs for Self-supervised Video Understanding***          
+***MTCG: Multi-grained Temporal Contrastive Graphs for Self-supervised Video Understanding***          
 **Yang Liu**, Liang Lin.      
 **Technical Report, 2021.**    
 (*A multi-level graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
