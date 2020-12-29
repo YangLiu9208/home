@@ -31,7 +31,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 3.&nbsp; General Program of China Postdoctoral Science Foundation, project leader, 2020-2022          
 4.&nbsp; Fundamental Research Funds for the Central Universities, project leader, 2020-2022          
 
-## Publications 
+## Selected Publications (Journals & Conferences & Thesis)
 
 <div align="left">
           <a>
