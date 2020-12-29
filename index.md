@@ -65,16 +65,6 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 <div align="left">
           <a>
-            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
-          </a> 
-</div>
-***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g)(psw：ithd) [[Defense Talk]]((https://yangliu9208.github.io/home/))    
-**Yang Liu**    
-**PhD thesis, Xidian University, June 30, 2019.**   
-Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
-
-<div align="left">
-          <a>
             <img border="0" src="./TIP.png" align="left" width="230" height="170">
           </a> 
 </div>
@@ -122,6 +112,16 @@ Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.
 **Yang Liu**, Jing Li, Zhaoyang Lu,Tao Yang, Zijian Liu.  
 **Chinese Conference on Biometric Recognition (CCBR), 2016.**   
 (*My first academic paper, which uses simple multi-feature fusion method to address cross-domain face sketch recognition problem.*)  
+
+<div align="left">
+          <a>
+            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
+          </a> 
+</div>
+***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g)(psw：ithd) [[Defense Talk]]((https://yangliu9208.github.io/home/))    
+**Yang Liu**    
+**PhD thesis, Xidian University, June 30, 2019.**   
+Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
 
 <div align="left">
           <a>
