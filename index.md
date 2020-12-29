@@ -13,10 +13,10 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 ## News 
 **2020-12:&nbsp; I am invitied as the reviewing expert for NSFC.**   
-2020-11:&nbsp; I received the funds from National Natural Science Foundation of Guangdong Province of China!!!.      
-2020-09:&nbsp; I received the funds from National Natural Science Foundation of China!!!.    
+2020-11:&nbsp; I received the funds from National Natural Science Foundation of Guangdong Province of China.      
+2020-09:&nbsp; I received the funds from National Natural Science Foundation of China.    
 2020-09:&nbsp; Paper *Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition* is [available](https://arxiv.org/abs/2009.00210).    
-2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation (Funding rate: 19.08%).     
+2020-06:&nbsp; I received the funds from China Postdoctoral Science Foundation.     
 2020-03:&nbsp; I received the Fundamental Research Funds for the Central Universities.   
 2020-01:&nbsp; My [Ph.D Thesis](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g) (psw：ithd) is available now.     
 2020-01:&nbsp; My Ph.D Thesis is published online in [CNKI](https://www.cnki.net/).     
