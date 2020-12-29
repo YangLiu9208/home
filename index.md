@@ -55,7 +55,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 <div align="left">
           <a>
-            <img border="0" src="./SAKDN.png" align="left" width="230" height="140">
+            <img border="0" src="./SAKDN.png" align="left" width="230" height="150">
           </a> 
 </div>
 ***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://arxiv.org/abs/2009.00210)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
