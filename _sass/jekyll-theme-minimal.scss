@@ -4,9 +4,9 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:500;
+  font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -173,7 +173,7 @@ header ul a strong {
 }
 
 section {
-  width:800px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
@@ -211,7 +211,7 @@ footer {
   }
 
   header {
-    padding-right:240px;
+    padding-right:320px;
   }
 
   section {
@@ -232,7 +232,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
@@ -250,7 +250,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 480px) {
   body {
     padding:15px;
   }
