@@ -40,7 +40,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***MTCG: Multi-grained Temporal Contrastive Graphs for Self-supervised Video Understanding***          
 **Yang Liu**, Liang Lin.      
-**Technical Report, 2021.**    
+**To submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.**    
 (*A multi-level graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
 
 <div align="left">
@@ -50,7 +50,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***Temporal Contrastive Graph for Self-supervised Video Representation Learning***[[pdf]](https://yangliu9208.github.io/home/)[[codes]]( https://github.com/YangLiu9208/TCG)                    
 **Yang Liu**, Keze Wang, Haoyuan Lan, Liang Lin.      
-**Technical Report, 2020.**        
+**Under Review by CVPR 2021.**        
 (*A hybrid graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
 
 <div align="left">
