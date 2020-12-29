@@ -6,7 +6,7 @@ body {
   padding:50px;
   font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
+  font-weight:500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -173,7 +173,7 @@ header ul a strong {
 }
 
 section {
-  width:600px;
+  width:800px;
   float:right;
   padding-bottom:50px;
 }
@@ -260,7 +260,7 @@ footer {
   }
 
   header li, header ul li + li + li {
-    width:33%;
+    width:50%;
   }
 }
 
