@@ -35,7 +35,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 <div align="left">
           <a>
-            <img border="0" src="./TCG.png" align="left" width="230" height="150">
+            <img border="0" src="./TCG.png" align="left" width="230" height="160">
           </a> 
 </div>
 ***MTCG: Multi-grained Temporal Contrastive Graphs for Self-supervised Video Understanding***          
@@ -45,7 +45,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 <div align="left">
           <a>
-            <img border="0" src="./TCG.png" align="left" width="230" height="150">
+            <img border="0" src="./TCG.png" align="left" width="230" height="160">
           </a> 
 </div>
 ***Temporal Contrastive Graph for Self-supervised Video Representation Learning***[[pdf]](https://yangliu9208.github.io/home/)[[codes]]( https://github.com/YangLiu9208/TCG)                    
