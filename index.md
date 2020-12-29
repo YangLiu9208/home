@@ -31,7 +31,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 3.&nbsp; General Program of China Postdoctoral Science Foundation, 2020-2022          
 4.&nbsp; Fundamental Research Funds for the Central Universities, 2020-2022          
 
-## Selected Publications (Journals & Conferences & Thesis)
+## Selected Publications (Journals & Conferences)
 
 <div align="left">
           <a>
@@ -115,16 +115,6 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 
 <div align="left">
           <a>
-            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
-          </a> 
-</div>
-***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g)(psw：ithd) [[Defense Talk]]((https://yangliu9208.github.io/home/))    
-**Yang Liu**    
-**PhD thesis, Xidian University, June 30, 2019.**   
-Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.  
-
-<div align="left">
-          <a>
             <img border="0" src="./xjt.png" align="left" width="230" height="130">
           </a> 
 </div>
@@ -142,6 +132,18 @@ Jiangce Hu, Zhaoyang Lu, Jing Li, Yanzi Deng, **Yang Liu**.
 Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**  
 **Journal of Xi'an Jiaotong University, 2017.**  
 (*My co-author paper for semantic segmentation in traffic scenes.*)   
+
+## Thesis   
+
+<div align="left">
+          <a>
+            <img border="0" src="./PHD_thesis.png" align="left" width="230" height="160">
+          </a> 
+</div>
+***Cross-domain Human Action Recognition via Transfer Learning, 2019.*** [[pdf]](https://pan.baidu.com/s/1-Co8GcHEa7A1rST6oe171g)(psw：ithd) [[Defense Talk]]((https://yangliu9208.github.io/home/))    
+**Yang Liu**    
+**PhD thesis, Xidian University, June 30, 2019.**   
+Committee: Zhaoyang Lu, Jing Li, Quanxue Gao, Peiyi Shen, Guizhong Liu, Chun Qi.    
 
 ## Patents (in Chinese) 
 [1] 卢朝阳，邓顺，李静，**刘阳**，许琼. "一种对装有车载监控终端的车辆监控系统及其方法". 国家发明专利CN106600951B    
