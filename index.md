@@ -26,10 +26,10 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
 
 ## Research Projects (Hosting Fundings)  
-1.&nbsp; National Natural Science Foundation of China, &yen; 300,000, 2021-2024    
-2.&nbsp; National Natural Science Foundation of Guangdong Province of China, &yen; 100,000, 2021-2024    
-3.&nbsp; General Program of China Postdoctoral Science Foundation, &yen; 80,000, 2020-2022          
-4.&nbsp; Fundamental Research Funds for the Central Universities, &yen; 120,000, 2020-2022          
+1.&nbsp; National Natural Science Foundation of China, &yen; 300K, 2021-2024    
+2.&nbsp; National Natural Science Foundation of Guangdong Province of China, &yen; 100K, 2021-2024    
+3.&nbsp; General Program of China Postdoctoral Science Foundation, &yen; 80K, 2020-2022          
+4.&nbsp; Fundamental Research Funds for the Central Universities, &yen; 120K, 2020-2022          
 
 ## Selected Publications (Journals & Conferences)
 
