@@ -8,8 +8,8 @@ I'm Yang Liu (刘阳), a post-doctoral fellow at [HCP Lab](http://www.sysu-hcp.n
 
 ## Research interests   
 Video Analysis and Understanding, Human Action Recognition        
-Multi-modal Representation Learning, Knowledge Distillation   
-Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learning      
+Transfer Learning, Multi-modal Representation Learning, Knowledge Distillation   
+Deep Learning, Self-supervised Learning, Reinforcement Learning      
 
 ## News 
 **2020-12:&nbsp; I am invitied as the reviewing expert for NSFC.**   
