@@ -133,7 +133,7 @@ Yanzi Deng, Zhaoyang Lu, Jing Li, **Yang Liu.**
 **Journal of Xi'an Jiaotong University, 2017.**  
 (*My co-author paper for semantic segmentation in traffic scenes.*)   
 
-## Thesis   
+## PhD Thesis   
 
 <div align="left">
           <a>
@@ -168,6 +168,11 @@ NSFC (National Natural Science Foundation of China)
 2015 Second Class Academic Scholarship for Master Students   
 2013 Third Prize of National English Competition   
 2012 Second Prize in National Mathematical Modeling Contest
+
+## Skills
+Program Language: Python, C++/C, C#, Matlab, PhP                   
+Deep Learning Architecture: Pytorch, Caffe, MatConvnet               
+English Level: CET-6 597           
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
