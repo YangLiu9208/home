@@ -26,10 +26,10 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 2019-06:&nbsp; I obtain my Ph.D degree from Xidian University.   
 
 ## Research Projects (Hosting Fundings)  
-1.&nbsp; National Natural Science Foundation of China, 2021-2024    
-2.&nbsp; National Natural Science Foundation of Guangdong Province of China, 2021-2024    
-3.&nbsp; General Program of China Postdoctoral Science Foundation, 2020-2022          
-4.&nbsp; Fundamental Research Funds for the Central Universities, 2020-2022          
+1.&nbsp; National Natural Science Foundation of China, &yen; 300,000, 2021-2024    
+2.&nbsp; National Natural Science Foundation of Guangdong Province of China, &yen; 100,000, 2021-2024    
+3.&nbsp; General Program of China Postdoctoral Science Foundation, &yen; 80,000, 2020-2022          
+4.&nbsp; Fundamental Research Funds for the Central Universities, &yen; 120,000, 2020-2022          
 
 ## Selected Publications (Journals & Conferences)
 
@@ -170,9 +170,9 @@ NSFC (National Natural Science Foundation of China)
 2012 Second Prize in National Mathematical Modeling Contest
 
 ## Skills
-Program Language: Python, C++/C, C#, Matlab, PhP                   
-Deep Learning Architecture: Pytorch, Caffe, MatConvnet               
-English Level: CET-6 597           
+Program Language: Python, C++/C, Matlab, C#, PhP                   
+Deep Learning Architecture: Pytorch, Caffe, MatConvNet               
+English Level: CET-6 597           
 
 <div align="center">
 <a href="https://clustrmaps.com/site/1afab"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4gcumkWOGcGMkP7mPeNRWlKjBOWOoFnp4f3NrPlhG8U&cl=ffffff" /></a>
