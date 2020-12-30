@@ -91,7 +91,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***Global Temporal Representation based CNNs for Infrared Action Recognition*** [[pdf]](https://ieeexplore.ieee.org/document/8332532)[[codes]](https://yangliu9208.github.io/TSTDDs/)          
 **Yang Liu**, Zhaoyang Lu, Jing Li, Tao Yang, Chao Yao.   
-**IEEE Signal Processing Letters, 2018.  (JCR 2, IF:3.268)**   
+**IEEE Signal Processing Letters, 2018.  (JCR 2, IF:3.105)**   
 (*A novel Optical-flow stacked difference image is proposed to capture global temporal information for infrared action recognition.*)  
 <div align="left">
           <a>
@@ -100,7 +100,7 @@ Deep Learning, Transfer Learning, Self-supervised Learning, Reinforcement Learni
 </div>
 ***Transferable Feature Representation for Visible-to-Infrared Cross-Dataset Human Action Recognition*** [[pdf]](http://downloads.hindawi.com/journals/complexity/2018/5345241.pdf)[[codes]](https://yangliu9208.github.io/CDFAG/)[[XD145 dataset]](https://drive.google.com/drive/folders/0B1qfLiy9hTl6NUlHNFo1eFhzekU?usp=sharing)      
 **Yang Liu**, Zhaoyang Lu, Jing Li, Chao Yao, Yanzi Deng.  
-**Complexity, 2018. (JCR 1, IF:4.621)**      
+**Complexity, 2018. (JCR 2, IF:2.462)**      
 (*The first work that uilize visible light videos as an aid to improve the infrared action recognition performance. And a visible light action dataset XD145 is built.*)   
 
 <div align="left">
