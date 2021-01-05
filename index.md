@@ -48,7 +48,7 @@ Deep Learning, Self-supervised Learning, Reinforcement Learning
             <img border="0" src="./TCG.png" align="left" width="230" height="170">
           </a> 
 </div>
-***Temporal Contrastive Graph for Self-supervised Video Representation Learning***[[pdf]](https://yangliu9208.github.io/home/)[[codes]]( https://github.com/YangLiu9208/TCG)                    
+***Temporal Contrastive Graph for Self-supervised Video Representation Learning***[[pdf]](https://arxiv.org/abs/2101.00820)[[codes]]( https://github.com/YangLiu9208/TCG)                    
 **Yang Liu**, Keze Wang, Haoyuan Lan, Liang Lin.      
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (Under Review), 2021.**        
 (*A hybrid graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
