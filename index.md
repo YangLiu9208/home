@@ -41,7 +41,7 @@ Deep Learning, Self-supervised Learning, Reinforcement Learning
 ***Temporal Frequency Contrastive Graph for Self-supervised Video Understanding***          
 **Yang Liu**, Liang Lin.      
 **IEEE Transactions on Pattern Analysis and Machine Intelligence (preparing), 2021.**    
-(*A frequency domain graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for temporal representation learning.*)   
+(*A frequency domain graph contrastive learning strategy to regard the inter-snippet and intra-snippet temporal relationships as self-supervision signals for video understanding.*)   
 
 <div align="left">
           <a>
