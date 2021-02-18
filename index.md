@@ -60,7 +60,7 @@ Deep Learning, Self-supervised Learning, Reinforcement Learning
 </div>
 ***Semantics-aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition***[[pdf]](https://arxiv.org/abs/2009.00210)[[codes]]( https://yangliu9208.github.io/SAKDN/)                    
 **Yang Liu**, Guanbin Li, Liang Lin.      
-**IEEE Transactions on Image Processing (Under Review), 2020.**     
+**IEEE Transactions on Image Processing (Under Major Revision), 2021.**     
 (*A novel end-to-end adaptive knowledge distillation framework for sensor-to-vision heterogenous action recognition problem.*)   
 
 <div align="left">
