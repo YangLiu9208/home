@@ -12,7 +12,7 @@ Transfer Learning, Multi-modal Representation Learning, Knowledge Distillation
 Deep Learning, Self-supervised Learning, Reinforcement Learning      
 
 ## News 
-**2021-2:&nbsp; I become a Member of the IEEE.**  
+**2021-02:&nbsp; I become a Member of the IEEE.**  
 2020-12:&nbsp; I am invitied as the reviewing expert for NSFC.   
 2020-11:&nbsp; I received the funding from National Natural Science Foundation of Guangdong Province of China.      
 2020-09:&nbsp; I received the funding from National Natural Science Foundation of China.    
